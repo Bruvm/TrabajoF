@@ -43,9 +43,9 @@
         <ul>
           <li><a href="index.php">Home</a></li>
           <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="inclusion.php">Inclusión Escolar</a></li>
-          <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
-          <li><a href="ndestacadas.php">Información Destacada</a></li>
+          <li><a href="inclusion.php">Inclusión escolar</a></li>
+          <li><a href="preguntas.php">Preguntas frecuentes</a></li>
+          <li><a href="ndestacadas.php">Información destacada</a></li>
           <li class="active"><a href="#">Contacto</a></li>
 
         </ul>
