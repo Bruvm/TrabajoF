@@ -152,7 +152,7 @@
           </div>
 
           <div class="col-2">
-            <a href="https://api.whatsapp.com/send?phone=+54 385 471 3407" target="_blank"><i class="fab fa-whatsapp"></i></a>
+           <a href="https://api.whatsapp.com/send?phone=+54 3512333551" target="_blank"><i class="fab fa-whatsapp"></i></a>
           </div>
 
           <div class="col-2">
