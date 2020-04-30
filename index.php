@@ -68,7 +68,7 @@
           <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpeg) no-repeat center fixed; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animated fadeInDown">BIENVENIDOS A <span>ARK HO</span></h2>
+                <h2 class="animated fadeInDown">¡BIENVENIDOS!<span></span></h2>
                 <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
                 <a href="ndestacadas-uno.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
@@ -250,7 +250,7 @@
           </div>
 
           <div class="col-2">
-            <a href="https://api.whatsapp.com/send?phone=+54 385 471 3407" target="_blank"><i class="fab fa-whatsapp"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=+54 3512333551" target="_blank"><i class="fab fa-whatsapp"></i></a>
           </div>
 
           <div class="col-2">
