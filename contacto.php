@@ -86,7 +86,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email</h3>
-              <p>contact@example.com</p>
+              <p>arkho.cba@gmail.com</p>
             </div>
           </div>
 
@@ -94,7 +94,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Teléfono</h3>
-              <p>+1 5589 55488 55</p>
+              <p> 351-23 33 551</p>
             </div>
           </div>
 
@@ -156,7 +156,7 @@
           </div>
 
           <div class="col-2">
-            <a href="mailto:arkhocba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+            <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
           </div>
 
           <div class="col-2">
