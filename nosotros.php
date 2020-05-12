@@ -110,7 +110,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
-              <h4><a href=""></a>Fonoudiología</h4>
+              <h4><a href="">Fonoudiología</a></h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
               <div class="collapse" id="collapseExample">
                 <div class="card card-body" ><p>
@@ -134,7 +134,7 @@
                   Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.</p>
                 </div>
               </div>
-              <p>
+              <p >
                 <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapseExample" >
                   Ver Más
                   </button>
