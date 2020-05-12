@@ -644,7 +644,7 @@ section {
 /*--------------------------------------------------------------
 # Our Services
 --------------------------------------------------------------*/
-.services .icon-box {
+/*.services .icon-box {
   text-align: center;
   border: 1px solid #ededed;
   padding: 80px 20px;
@@ -718,6 +718,90 @@ section {
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
   color: #fff;
+}*/
+
+
+/*--------------------------------------------------------------
+# especialidades
+--------------------------------------------------------------*/
+.services .icon-box {
+  text-align: center;
+  border: 3px solid #ededed;
+  padding: 80px 20px;
+  transition: all ease-in-out 0.3s;
+}
+
+.services .icon-box .icon {
+  margin: 0 auto;
+  width: 64px;
+  height: 64px;
+  background: #D68831;
+  border-radius: 5px;
+  transition: all .3s ease-out 0s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  transform-style: preserve-3d;
+}
+
+.services .icon-box .icon i {
+  color: #fff;
+  font-size: 28px;
+}
+
+.services .icon-box .icon::before {
+  position: absolute;
+  content: '';
+  left: -8px;
+  top: -8px;
+  height: 100%;
+  width: 100%;
+  background: #fbe2dd;
+  border-radius: 5px;
+  transition: all .3s ease-out 0s;
+  transform: translateZ(-1px);
+}
+
+.services .icon-box h4 {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+.services .icon-box h4 a {
+  color: #545454;
+}
+
+.services .icon-box p {
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.services .icon-box:hover {
+  border:  3px solid #D68831;
+    box-shadow: -10px -5px 40px 0 rgba(0, 0, 0, 0.1);
+
+}
+
+.services .icon-box:hover .icon {
+  background: #fff;
+}
+
+.services .icon-box:hover .icon i {
+  color: #D68831;
+}
+
+.services .icon-box:hover .icon::before {
+  background: #D68831;
+}
+.services .icon-box:hover p{
+  color: #545454;
+}
+
+.services .icon-box:hover h4 a{
+    color: #D68831;
 }
 
 /*--------------------------------------------------------------
@@ -1221,17 +1305,17 @@ section {
 }
 
 .services .buy-btn {
-  background: #D68831;
+  background: #fff;
   display: inline-block;
   padding: 8px 30px;
   border-radius: 20px;
-  color: #fff;
+  color: #545454;
   transition: none;
   font-size: 14px;
   font-weight: 400;
   font-family: "Raleway", sans-serif;
   transition: 0.3s;
-  border: 2px solid #545454;
+  border: 2px solid #d68831;
   margin-top: 7%;
 }
 .services .card{
@@ -1242,7 +1326,8 @@ section {
 
 
 .services .buy-btn:hover {
-  background: #545454;
+  background: #d68831;
+  color:#fff;
 }
 
 .pricing .featured {
@@ -1257,6 +1342,7 @@ section {
 .pricing .featured .buy-btn:hover {
   background: #ee8b7a;
 }
+
 
 @media (max-width: 992px) {
   .pricing .box {
