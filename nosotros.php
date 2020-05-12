@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Nosotros</title>
+  <title>NOSOTROS | Fundación Ark Ho</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -41,9 +41,9 @@
         <ul>
           <li><a href="index.php">Home</a></li>
           <li class="active"><a href="#">Nosotros</a></li>
-          <li><a href="inclusion.php">Inclusión Escolar</a></li>
-          <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
-          <li><a href="ndestacadas.php">Información Destacada</a></li>
+          <li><a href="inclusion.php">Inclusión escolar</a></li>
+          <li><a href="preguntas.php">Preguntas frecuentes</a></li>
+          <li><a href="ndestacadas.php">Información destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
 
         </ul>
@@ -161,7 +161,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <h4><a href="">Psicomotricista</a></h4>
+              <h4><a href="">Psicomotricidad</a></h4>
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
               <div class="collapse" id="collapse3">
                 <div class="card card-body" ><p>

@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Contacto | </title>
+  <title>CONTACTO | Fundación Ark Ho </title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -86,7 +86,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email</h3>
-              <p>contact@example.com</p>
+              <p>arkho.cba@gmail.com</p>
             </div>
           </div>
 
@@ -94,7 +94,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Teléfono</h3>
-              <p>+1 5589 55488 55</p>
+              <p> 351-23 33 551</p>
             </div>
           </div>
 
@@ -152,11 +152,11 @@
           </div>
 
           <div class="col-2">
-            <a href="https://api.whatsapp.com/send?phone=+54 385 471 3407" target="_blank"><i class="fab fa-whatsapp"></i></a>
+           <a href="https://api.whatsapp.com/send?phone=+54 3512333551" target="_blank"><i class="fab fa-whatsapp"></i></a>
           </div>
 
           <div class="col-2">
-            <a href="mailto:arkhocba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+            <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
           </div>
 
           <div class="col-2">
