@@ -44,7 +44,7 @@
           <li><a href="nosotros.php">Nosotros</a></li>
           <li><a href="inclusion.php">Inclusión escolar</a></li>
           <li><a href="preguntas.php">Preguntas frecuentes</a></li>
-          <li  class="active"><a href="#">Información destacada</a></li>
+          <li  class="active"><a href="ndestacadas.php">Información destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
 
         </ul>
@@ -62,7 +62,7 @@
           <li><a href="index.php">ARK HO</a></li>
           <li><a href="ndestacadas.php">Noticias Destacadas</a></li>
         </ol>
-        <h2>Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h2>
+        <h2>NOTICIA DESTACADA 2</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
