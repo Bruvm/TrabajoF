@@ -43,7 +43,7 @@
         <ul>
           <li><a href="index.php">Home</a></li>
           <li><a href="nosotros.php">Nosotros</a></li>
-          <li class="active"><a href="#">Inclusión Escolar</a></li>
+          <li class="active"><a href="#">Inclusión Educativa</a></li>
           <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
           <li><a href="ndestacadas.php">Información Destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
@@ -61,9 +61,9 @@
 
         <ol>
           <li><a href="index.php">ARK HO</a></li>
-          <li>Integración Escolar</li>
+          <li>Integración educativa</li>
         </ol>
-        <h2>Integración Escolar</h2>
+        <h2>Integración educativa</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
@@ -78,7 +78,7 @@
           </div>
 
           <div class="col-lg-6 pt-4 pt-lg-0 content">
-            <h3>¿Cómo realizamos el apoyo a la integración escolar?</h3>
+            <h3>¿Cómo realizamos el apoyo a la integración educativa?</h3>
             <p class="font-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
