@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>INCLUSIÓN ESCOLAR | Fundación Ark Ho</title>
+  <title>INCLUSIÓN EDUCATIVA | Fundación Ark Ho</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
