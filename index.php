@@ -70,7 +70,7 @@
               <div class="carousel-content">
                 <h2 class="animated fadeInDown">¡BIENVENIDOS!<span></span></h2>
                 <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="ndestacadas-uno.php" class="btn-get-started animated fadeInUp">Leer más</a>
+                <a href="ndestacada-uno.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
           </div>
@@ -81,7 +81,7 @@
               <div class="carousel-content">
                 <h2 class="animated fadeInDown">Lorem <span>Ipsum Dolor</span></h2>
                 <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="ndestacadas-uno.php" class="btn-get-started animated fadeInUp">Leer más</a>
+                <a href="ndestacadas-dos.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
           </div>
@@ -92,7 +92,7 @@
               <div class="carousel-content">
                 <h2 class="animated fadeInDown">Sequi ea <span>Dime Lara</span></h2>
                 <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="ndestacadas-uno.php" class="btn-get-started animated fadeInUp">Leer más</a>
+                <a href="ndestacada-tres.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
           </div>
