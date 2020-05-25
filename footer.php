@@ -2,15 +2,23 @@
 <html lang="en">
 
 <body>
-  <!-- ======= Footer ======= -->
+  
   <footer id="footer">
 
     <div class="container">
       <div class="copyright">
         &copy; Copyright <strong><span>FUNDACIÓN ARK HO</span></strong>| DESARROLLO @PIXIES
-      </div>
+    
+      <nav class="nav-menuf d-none d-lg-block">
+        <ul>
+          <li><a href="politicas.php">Políticas de privacidad | </a></li>
+          <li><a href="terminosycondiciones.php">Términos y condiciones | </a></li>
+          <li><a href="copyright.php">Copy right | </a></li>
+        </ul>
+      </nav>
     </div>
-  </footer><!-- End Footer -->
+   </div>
+  </footer>
 
 </body>
 
