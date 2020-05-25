@@ -151,7 +151,7 @@
               culpa qui officia deserunt mollit anim id est laborum
             </p>
             <div class="read-more">
-                  <a href="ndestacada-dos.php">﹤Leer más﹥</a>
+                  <a href="ndestacada-dos.php">Leer más</a>
                 </div>
           </div>
         </div>     <br><br> 
@@ -175,7 +175,7 @@
                 culpa qui officia deserunt mollit anim id est laborum
               </p>
               <div class="read-more">
-                  <a href="ndestacada-tres.php">﹤Leer más﹥</a>
+                  <a href="ndestacada-tres.php">Leer más</a>
                 </div>
             </div>
             <div class="col-lg-6 order-1 order-lg-2">
