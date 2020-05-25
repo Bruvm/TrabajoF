@@ -641,6 +641,22 @@ section {
   margin-bottom: 0;
 }
 
+.about .read-more a {
+  display: inline-block;
+  background: #D68831;
+  color: #fff;
+  padding: 6px 20px 8px 20px;
+  transition: 0.3s;
+  font-size: 12px;
+  border-radius: 50px;
+}
+
+
+.about .read-more a:hover {
+  background: #D68831;
+  opacity: 0.8;
+}
+
 /*--------------------------------------------------------------
 # Our Services
 --------------------------------------------------------------*/
