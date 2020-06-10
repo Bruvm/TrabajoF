@@ -61,9 +61,9 @@
 
         <ol>
           <li><a href="index.php">ARK HO</a></li>
-          <li>Copy right</li>
+          <li>Copyright</li>
         </ol>
-        <h2>Copy right</h2>
+        <h2>Copyright</h2>
 
       </div>
     </section>
