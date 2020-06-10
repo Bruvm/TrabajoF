@@ -13,7 +13,7 @@
         <ul>
           <li><a href="politicas.php">Políticas de privacidad | </a></li>
           <li><a href="terminosycondiciones.php">Términos y condiciones | </a></li>
-          <li><a href="copyright.php">Copy right | </a></li>
+          <li><a href="copyright.php">Copyright | </a></li>
         </ul>
       </nav>
     </div>
