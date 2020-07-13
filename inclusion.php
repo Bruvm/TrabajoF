@@ -110,10 +110,10 @@
             <i class="icofont-check-circled"></i>
               
               <span style="margin-bottom: 30px;">OBJETIVOS</span>
-              Promover la inclusión de niños, niñas, adolescentes, jóvenes y adultos con discapacidad o Altas Capacidades en cualquiera de las modalidades del sistema educativo argentino. <br> <br>
+              <p>Promover la inclusión de niños, niñas, adolescentes, jóvenes y adultos con discapacidad o Altas Capacidades en cualquiera de las modalidades del sistema educativo argentino. <br> <br>
               Brindar a niños, niñas, adolescentes, jóvenes y adultos con discapacidad y /o Altas Capacidades los apoyos educativos y terapéuticos interdisciplinarios, acordes a las necesidades y particularidades de cada uno de ellos, a fin de lograr el máximo desarrollo de sus potencialidades. <br> <br>
               Orientar a las familias y las escuelas , brindando contención e información en temas vinculados a la problemática de su hijo y a los beneficios de implementar una escuela inclusiva para todos y todas. <br> <br>
-              Crear redes sociales que organicen planes de acción para una mayor inclusión de las Personas con Discapacidad en la comunidad.
+              Crear redes sociales que organicen planes de acción para una mayor inclusión de las Personas con Discapacidad en la comunidad.</p>
             </div>
           </div>
 
