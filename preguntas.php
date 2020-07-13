@@ -80,11 +80,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-5">
             <i class="icofont-question-circle"></i>
-            <h4>Non consectetur a erat nam at lectus urna duis?</h4>
+            <h4>¿Que obras sociales o prepagas atienden en la Fundación?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+              Si la persona en situación de discapacidad tiene CUD (Certificado de Discapacidad) puede ser asistida en nuestra Fundación.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
