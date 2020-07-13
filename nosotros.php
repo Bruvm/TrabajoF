@@ -73,22 +73,23 @@
 
         <div class="row">
 
-          <div class="col-lg-6">
-            <div class="testimonial-item">
-              <i class="icofont-simple-smile"></i>
+          <div class="col-lg-6" >
+            <div class="testimonial-item" style=" height: 300px; text-align: justify;">
+              <i class="icofont-eye-alt"></i>
               <span>VISIÓN</span>
               <p>
-                Alcanzar un diagnostico, de allí diseñar un tratamiento y realizar una intervención adecuada a las necesidades de las personas y/o grupo familiar en relación a las múltiples problemáticas, promoviendo el progreso y los resultados positivos. En una constante búsqueda de la participación activa del paciente y de su grupo familiar (en los casos que así lo requiere). La modalidad de abordaje siempre a través del trabajo Interdisciplinario para una mejor calidad de atención. Promover la constante capacitación y formación de los profesionales, reuniones sistemáticas con los equipos de trabajo, supervisiones, ateneos internos que creemos se traduce en beneficios, progresos, y la salud de nuestros pacientes.
+                Ser una Institución referente en la Provincia de Córdoba en lo que respecta a los procesos de Inclusión Educativa (antes denominadas Integraciones Escolares) en las escuelas del sistema educativo argentino de  niños, niñas, adolescentes, jóvenes y adultos con discapacidad, realizando un cambio significativo en el desarrollo de la comunidad, procurando educación, valores y bienestar entres sus miembros para  lograr de esta manera una sociedad más inclusiva y equitativa.
+
               </p>
             </div>
           </div>
 
           <div class="col-lg-6">
-            <div class="testimonial-item mt-4 mt-lg-0">
-              <i class="icofont-document-folder"></i>
+            <div class="testimonial-item mt-4 mt-lg-0" style=" height: 300px; text-align: justify;">
+<i class="icofont-group"></i>
               <span>MISIÓN</span>
               <p>
-                Es un espacio de atención a las múltiples necesidades asociadas al desarrollo del ser humano. Brindando un servicio de calidad acorde a las necesidades de cada persona y su familia, teniendo en cuenta su historia personal, grupo social al que pertenece, y modelo institucional escolar- social a seguir para la integración social plena. Utilizando estrategias de trabajo ligadas a la interdisciplinariedad, el trabajo en equipo y el abordaje Integral de la persona y su contexto. Contando con un grupo de Profesionales de diferentes disciplinas para asistir y prevenir de manera holística, ordenada, responsable y respetuosa las necesidades de nuestros pacientes
+               Somos una Institución dedicada a brindar los apoyos necesarios a las personas con discapacidad (PcD) que asisten a cualquier modalidad del sistema educativo argentino. La inclusión de niños, niñas, adolescentes, jóvenes y adultos con discapacidad debe hacerse cuidadosamente, evaluando cada situación en particular, y  a partir de allí desarrollar los programas específicos para ser aplicados. Dichas evaluaciones se realizan de manera interdisciplinaria, contando con un equipo de Profesionales de diferentes disciplinas (Psicología, Psicopedagogía, Psicomotricidad, profesores de Educación Especial, Neuropsicología, Fisiatría, Kinesiología y Fisioterapia, Fonoaudiología y Trabajo Social) para prevenir y asistir de manera holística, ordenada, responsable y respetuosa las necesidades de cada persona en todos sus ciclos vitales.
               </p>
             </div>
           </div>
@@ -110,11 +111,82 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
-              <h4><a href="">Fonoudiología</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Psicopedagogía</a></h4>
+              <p>Realiza acciones que posibilitan la detección de perturbaciones y/o anomalías en el proceso de aprendizaje.</p>
               <div class="collapse" id="collapseExample">
                 <div class="card card-body" ><p>
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.</p>
+                  Explora las características psicoevolutivas del sujeto en situación de aprendizaje. Participa en la dinámica de las relaciones de la comunidad educativa, a fin de favorecer procesos de integración y cambio.</p>
+                </div>
+              </div>
+              <p>
+                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
+                  Ver Más
+                  </button>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+              <h4><a href="">Psicología</a></h4>
+              <p>Asesoramiento y tratamiento a familias de personas en situación de Discapacidad.</p>
+              <div class="collapse" id="collapseExample">
+                <div class="card card-body" ><p>
+                 Diagnostica, asiste, orienta y asesora en todo lo concerniente a los aspectos psicológicos del quehacer educacional; la estructura y la dinámica de las instituciones educativas y el medio social en que éste se desarrolla. Realiza estudios y acciones de promoción y prevención tendientes a crear las condiciones más favorables para la adecuación recíproca familia-escuela. </p>
+                </div>
+              </div>
+              <p>
+                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
+                  Ver Más
+                  </button>
+              </p>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+              <h4><a href="">Trabajo Social</a></h4>
+              <p>Asistencia, orientación y asesoramiento a los distintos sistemas (familia-escuela-instituciones) que participan del proceso de Inclusión Escolar.</p>
+              <div class="collapse" id="collapseExample">
+                <div class="card card-body" ><p>
+                   Acompañamiento a las familias en la adquisición de Servicios de Salud; participación colaborativa con el equipo interdisciplinario; asistencia y capacitación a las diferentes escuelas. </p>
+                </div>
+              </div>
+              <p>
+                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
+                  Ver Más
+                  </button>
+              </p>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+              <h4><a href="">Gestión de la educación especial</a></h4>
+              <p>Encargada de la supervisión, conducción y coordinación de los servicios que conciernen a los procesos de Inclusión Escolar.</p>
+              <div class="collapse" id="collapseExample">
+                <div class="card card-body" ><p>
+                  Capacitación en la construcción del documento PPI y asesoramiento en el Marco Legal de trabajo; supervisión de los ajustes razonables en todos los niveles a los Docentes de Apoyo a la Inclusión Escolar. </p>
+                </div>
+              </div>
+              <p>
+                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
+                  Ver Más
+                  </button>
+              </p>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+              <h4><a href="">Fisiatría</a></h4>
+              <p>Profesional a cargo de un proceso de  valoración preliminar e integral del paciente.</p>
+              <div class="collapse" id="collapseExample">
+                <div class="card card-body" ><p>
+                  Efectúa los diagnósticos y diseña el plan de tratamiento para la rehabilitación interdisciplinaria según las necesidades detectadas en cada persona en situación de discapacidad. </p>
                 </div>
               </div>
               <p>
@@ -127,11 +199,11 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
-              <h4><a href="">Kinesiología y Fisioterapia</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Neuropsicología</a></h4>
+              <p>Profesional que diagnostica implementando batería de test neuropsicológicos, a los fines efectuar una descripción profunda de las funciones cerebrales superiores de las personas.</p>
               <div class="collapse" id="collapse1">
                 <div class="card card-body" ><p>
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.</p>
+                  Elaboración de diagnóstico y confección del perfil neuropsicológico para tramitación del Certificado Único de Discapacidad.</p>
                 </div>
               </div>
               <p>
@@ -144,11 +216,11 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
-              <h4><a href="">Psicología</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Fonoaudiología</a></h4>
+              <p>Realiza la valoración, diagnóstico clínico fonoaudiológico, pronóstico y terapéutica en los procesos que perturben el desarrollo de la organización lingüística y su deterioro.</p>
                 <div class="collapse" id="collapse2">
                 <div class="card card-body" ><p>
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.</p>
+                  También en los niveles fonético-fonológico, morfosintáctico y semántico del lenguaje, como también su efecto en aprendizaje pedagógico.</p>
                 </div>
               </div>
               <p>
@@ -161,11 +233,11 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <h4><a href="">Psicomotricista</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Kinesiología y Fisioterapia</a></h4>
+              <p>Ejecuta las prestaciones asistenciales, para la evaluación, prevención, conservación, tratamiento y recuperación de la capacidad física de las personas a través de la Kinefilaxia, Kinesiterapia y la Fisioterapia.</p>
               <div class="collapse" id="collapse3">
                 <div class="card card-body" ><p>
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.</p>
+                   Integra el equipo interdisciplinario, colaborando en mejorar la calidad de vida de las personas con discapacidad y sus familias, atendiendo sus necesidades básicas de rehabilitación e inclusión.</p>
                 </div>
               </div>
               <p>
@@ -178,11 +250,11 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <h4><a href="">Psicopedagogía</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Psicomotricidad</a></h4>
+              <p>Participa en la elaboración, ejecución, evaluación de planes, programas y acciones pertinentes al área de la psicomotricidad, en el ámbito de la educación de nivel y especial.</p>
               <div class="collapse" id="collapse4">
                 <div class="card card-body" ><p>
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.</p>
+                  Integra el equipo interdisciplinario para la realización del diagnóstico y tratamiento integral de la persona en todo el ciclo vital.</p>
                 </div>
               </div>
               <p>
@@ -204,7 +276,7 @@
 
         <div class="section-title">
           <h2>Nuestro Equipo de Trabajo</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Formamos parte de un equipo interdisciplinario que apuesta al trabajo integral y colaborativo en el acompañamiento a cada persona en situación de discapacidad y su familia.</p>
         </div>
         </div>
     </section><!-- End Our Skills Section -->
@@ -217,104 +289,235 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/team-1.jpg" alt="">
-              <h4>Walter White</h4>
-              <span>Chief Executive Officer</span>
+              <h4>Maria Belén Frias</h4>
+              <span>Lic. en Psicología. MP 6047</span>
               <p>
-                Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                Especialista en Psicoterapia Familiar. <br>
+                Coordinadora del Área de Psicología Fundación Arkho
+
               </p>
-              <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-              </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/team-2.jpg" alt="">
-              <h4>Sarah Jhinson</h4>
-              <span>Product Manager</span>
-              <p>
+              <h4>Vanesa Beatriz Arévalo</h4>
+              <span>Lic. en Psicología. MP 7247</span>
+              <!--<p>
                 Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
-              </p>
-              <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-              </div>
+              </p>-->
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>William Anderson</h4>
-              <span>CTO</span>
-              <p>
+              <h4>Consuelo Verónica Fa<!--preguntar si falta parte del apellido--></h4>
+              <span>Lic. en Psicología. MP 7304</span>
+              <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-              </p>
-              <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-              </div>
+              </p>-->
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/team-1.jpg" alt="">
-              <h4>Walter White</h4>
-              <span>Chief Executive Officer</span>
+              <h4>Claudia Marcela Carta</h4>
+              <span>Lic. y Prof. en Psicomotricidad. MP<!--falta matricula--></span>
               <p>
-                Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia) <br>
+                Coordinadora del Área de Psicomotricidad Fundación Arkho
+
               </p>
-              <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-              </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/team-2.jpg" alt="">
-              <h4>Sarah Jhinson</h4>
-              <span>Product Manager</span>
+              <h4>Natividad Castellani</h4>
+              <span>Lic. y Prof. en Psicomotricidad. MP 10203</span>
               <p>
-                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia)
               </p>
-              <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-              </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>William Anderson</h4>
-              <span>CTO</span>
-              <p>
+              <h4>Matias Sotomayor</h4>
+              <span>Lic. en Psicomotricidad. MP 12786</span>
+              <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-              </p>
-              <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
-              </div>
+              </p>-->
             </div>
           </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Matias Sotomayor</h4>
+              <span>Lic. en Psicomotricidad. MP 12786</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+
+      
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Macarena Arias</h4>
+              <span>Lic. en Psicomotricidad. MP 14387</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+          
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Leticia Mendez</h4>
+              <span>Lic. en Psicomotricidad. MP 13581</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+          
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Martín Cipollone</h4>
+              <span>Profesor en Psicopedagogía y Psicopedagogo. MP 13-1779</span>
+              <p>
+                Especialista Superior en Educación y TIC <br>
+CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia)<br>
+Lic. en Educación Especial con Orientación en Integración e Inclusión Educativa (UNdeC)<br>
+Licenciando en Psicopedagogía (UCC)<br>
+Doctorando en Educación (UCC)<br>
+Coordinador del Área de Psicopedagogía Fundación Arkho
+
+              </p>
+            </div>
+          </div>
+          
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Giselle Belén Maccario</h4>
+              <span>Lic. en Psicopedagogía. MP P-12-4112</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+          
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Gabriela del V. Córdoba</h4>
+              <span>Lic. en Psicopedagogía. MP P-12-5164</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+          
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Antonella Pini</h4>
+              <span>Lic. en Psicopedagogía. MP 124113</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+          
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Veronica Romanini</h4>
+              <span>Lic. en Kinesiología y Fisioterapia. MP<!--falta matricula--></span>
+              <p>
+                Terapista Castillo Morales <br>
+                Intervención Temprana <br>
+                Coordinadora del Área de Kinesiología Fundación Arkho <br>
+
+              </p>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Juan Manuel Sarinski</h4>
+              <span>Lic. en Kinesiología y Fisioterapia. MP 7866</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+
+                  <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Noelia Gordillo Alfaro</h4>
+              <span>Lic. en Fonoaudiología. MP 7412</span>
+              <p>
+                Coordinadora del Área de Fonoaudiología Fundación Arkho
+              </p>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Natalia Glorioso</h4>
+              <span>Lic. en Fonoaudiología. MP 8865</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Verónica Agner</h4>
+              <span>Lic. en Gestión de Educación Especial <!--Preguntar por matricula--></span>
+              <p>
+                Prof. en Educación Especial
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Eliana Bustos</h4>
+              <span>Lic. en Trabajo Social. MP 1584</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+
 
         </div> 
       </div>
