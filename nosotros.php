@@ -313,7 +313,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>Consuelo Verónica Fa<!--preguntar si falta parte del apellido--></h4>
+              <h4>Consuelo Verónica Fa</h4>
               <span>Lic. en Psicología. MP 7304</span>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
@@ -400,11 +400,11 @@
               <span>Profesor en Psicopedagogía y Psicopedagogo. MP 13-1779</span>
               <p>
                 Especialista Superior en Educación y TIC <br>
-CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia)<br>
-Lic. en Educación Especial con Orientación en Integración e Inclusión Educativa (UNdeC)<br>
-Licenciando en Psicopedagogía (UCC)<br>
-Doctorando en Educación (UCC)<br>
-Coordinador del Área de Psicopedagogía Fundación Arkho
+                CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia)<br>
+                Lic. en Educación Especial con Orientación en Integración e Inclusión Educativa (UNdeC)<br>
+                Licenciando en Psicopedagogía (UCC)<br>
+                Doctorando en Educación (UCC)<br>
+                Coordinador del Área de Psicopedagogía Fundación Arkho
 
               </p>
             </div>
@@ -450,7 +450,7 @@ Coordinador del Área de Psicopedagogía Fundación Arkho
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>Veronica Romanini</h4>
+              <h4>Verónica Romanini</h4>
               <span>Lic. en Kinesiología y Fisioterapia. MP<!--falta matricula--></span>
               <p>
                 Terapista Castillo Morales <br>
