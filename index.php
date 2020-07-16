@@ -194,28 +194,28 @@ Las personas con altas capacidades presentan un nivel de rendimiento intelectual
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Trabajo Social</a></h4>
               <p>Asistencia, orientación y asesoramiento a los distintos sistemas (familia-escuela-instituciones)  que participan del proceso de Inclusión Escolar. </p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Gestión de la educación especial</a></h4>
               <p>Encargada de la supervisión, conducción y coordinación de los servicios que conciernen a los procesos de Inclusión Escolar.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Fisiatría</a></h4>
               <p>Profesional a cargo de un proceso de  valoración preliminar e integral del paciente. </p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Neuropsicología</a></h4>
               <p>Profesional que diagnostica implementando batería de test neuropsicológicos, a los fines efectuar una descripción profunda de las funciones cerebrales superiores de las personas.</p>
@@ -223,14 +223,14 @@ Las personas con altas capacidades presentan un nivel de rendimiento intelectual
           </div>
 
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Fonoaudiología</a></h4>
               <p>Realiza la  valoración, diagnóstico clínico fonoaudiológico, pronóstico y terapéutica en los procesos que perturben el desarrollo de la organización lingüística y su deterioro.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Kinesiología y Fisioterapia</a></h4>
               <p>Ejecuta las prestaciones asistenciales, para la evaluación, prevención, conservación, tratamiento y recuperación de la capacidad física de las personas a través de la Kinefilaxia, Kinesiterapia y la Fisioterapia.
@@ -238,7 +238,7 @@ Las personas con altas capacidades presentan un nivel de rendimiento intelectual
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Psicomotricidad</a></h4>
               <p>Participa en la elaboración, ejecución, evaluación de planes, programas y acciones pertinentes al área de la psicomotricidad, en el ámbito de la educación de nivel y especial.</p></p>
