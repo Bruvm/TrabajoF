@@ -109,7 +109,7 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
               <h4><a href="">Psicopedagogía</a></h4>
               <p>Realiza acciones que posibilitan la detección de perturbaciones y/o anomalías en el proceso de aprendizaje.</p>
@@ -126,7 +126,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
               <h4><a href="">Psicología</a></h4>
               <p>Asesoramiento y tratamiento a familias de personas en situación de Discapacidad.</p>
@@ -144,7 +144,7 @@
           </div>
 
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
               <h4><a href="">Trabajo Social</a></h4>
               <p>Asistencia, orientación y asesoramiento a los distintos sistemas (familia-escuela-instituciones) que participan del proceso de Inclusión Escolar.</p>
@@ -162,7 +162,7 @@
           </div>
 
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Gestión de la educación especial</a></h4>
               <p>Encargada de la supervisión, conducción y coordinación de los servicios que conciernen a los procesos de Inclusión Escolar.</p>
@@ -180,7 +180,7 @@
           </div>
 
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Fisiatría</a></h4>
               <p>Profesional a cargo de un proceso de  valoración preliminar e integral del paciente.</p>
@@ -197,7 +197,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="">Neuropsicología</a></h4>
               <p>Profesional que diagnostica implementando batería de test neuropsicológicos, a los fines efectuar una descripción profunda de las funciones cerebrales superiores de las personas.</p>
@@ -214,7 +214,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 ">
             <div class="icon-box">
               <h4><a href="">Fonoaudiología</a></h4>
               <p>Realiza la valoración, diagnóstico clínico fonoaudiológico, pronóstico y terapéutica en los procesos que perturben el desarrollo de la organización lingüística y su deterioro.</p>
@@ -325,7 +325,7 @@
             <div class="member">
               <img src="assets/img/team/team-1.jpg" alt="">
               <h4>Claudia Marcela Carta</h4>
-              <span>Lic. y Prof. en Psicomotricidad. MP<!--falta matricula--></span>
+              <span>Lic. y Prof. en Psicomotricidad. MP 9392</span>
               <p>
                 CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia) <br>
                 Coordinadora del Área de Psicomotricidad Fundación Arkho
@@ -451,7 +451,7 @@
             <div class="member">
               <img src="assets/img/team/team-3.jpg" alt="">
               <h4>Verónica Romanini</h4>
-              <span>Lic. en Kinesiología y Fisioterapia. MP<!--falta matricula--></span>
+              <span>Lic. en Kinesiología y Fisioterapia. MP 2992</span>
               <p>
                 Terapista Castillo Morales <br>
                 Intervención Temprana <br>
@@ -500,7 +500,7 @@
             <div class="member">
               <img src="assets/img/team/team-3.jpg" alt="">
               <h4>Verónica Agner</h4>
-              <span>Lic. en Gestión de Educación Especial <!--Preguntar por matricula--></span>
+              <span>Lic. en Gestión de Educación Especial MP A-8968</span>
               <p>
                 Prof. en Educación Especial
               </p>
