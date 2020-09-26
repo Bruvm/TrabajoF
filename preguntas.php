@@ -160,7 +160,8 @@
             </p>
           </div>
         </div>
-
+    </div>
+  </section>
         <!-- End F.A.Q Item-->
 
   </main><!-- End #main -->
