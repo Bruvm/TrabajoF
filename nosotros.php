@@ -110,16 +110,16 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box">
+            <div class="icon-box box-psicopeda" style="min-height: 360px">
               <h4><a href="">Psicopedagogía</a></h4>
               <p>Realiza acciones que posibilitan la detección de perturbaciones y/o anomalías en el proceso de aprendizaje.</p>
-              <div class="collapse" id="collapseExample">
+              <div class="collapse" id="collapsePsicopeda">
                 <div class="card card-body" ><p>
                   Explora las características psicoevolutivas del sujeto en situación de aprendizaje. Participa en la dinámica de las relaciones de la comunidad educativa, a fin de favorecer procesos de integración y cambio.</p>
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
+                <button class="btn buy-btn btnChange" id="btnPsicopeda" type="button" data-toggle="collapse" data-target="#collapsePsicopeda" aria-expanded="false" aria-controls="collapsePsicopeda" >
                   Ver Más
                   </button>
               </p>
@@ -127,16 +127,16 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box">
+            <div class="icon-box box-psicolo" style="min-height: 360px">
               <h4><a href="">Psicología</a></h4>
               <p>Asesoramiento y tratamiento a familias de personas en situación de Discapacidad.</p>
-              <div class="collapse" id="collapseExample">
+              <div class="collapse" id="collapsePsicolo">
                 <div class="card card-body" ><p>
                  Diagnostica, asiste, orienta y asesora en todo lo concerniente a los aspectos psicológicos del quehacer educacional; la estructura y la dinámica de las instituciones educativas y el medio social en que éste se desarrolla. Realiza estudios y acciones de promoción y prevención tendientes a crear las condiciones más favorables para la adecuación recíproca familia-escuela. </p>
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
+                <button class="btn buy-btn btnChange" id="btnPsicolo" type="button" data-toggle="collapse" data-target="#collapsePsicolo" aria-expanded="false" aria-controls="collapsePsicolo" >
                   Ver Más
                   </button>
               </p>
@@ -145,7 +145,7 @@
 
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box">
+            <div class="icon-box box-trabsocial" style="min-height: 360px">
               <h4><a href="">Trabajo Social</a></h4>
               <p>Asistencia, orientación y asesoramiento a los distintos sistemas (familia-escuela-instituciones) que participan del proceso de Inclusión Escolar.</p>
               <div class="collapse" id="collapseExample">
@@ -154,7 +154,7 @@
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
+                <button class="btn buy-btn" id="btntrabsocial" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
                   Ver Más
                   </button>
               </p>
@@ -166,13 +166,13 @@
             <div class="icon-box">
               <h4><a href="">Gestión de la educación especial</a></h4>
               <p>Encargada de la supervisión, conducción y coordinación de los servicios que conciernen a los procesos de Inclusión Escolar.</p>
-              <div class="collapse" id="collapseExample">
+              <div class="collapse" id="collapseGestion">
                 <div class="card card-body" ><p>
                   Capacitación en la construcción del documento PPI y asesoramiento en el Marco Legal de trabajo; supervisión de los ajustes razonables en todos los niveles a los Docentes de Apoyo a la Inclusión Escolar. </p>
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
+                <button class="btn buy-btn" id="btnGestion" type="button" data-toggle="collapse" data-target="#collapseGestion" aria-expanded="false" aria-controls="collapseGestion" >
                   Ver Más
                   </button>
               </p>
@@ -184,13 +184,13 @@
             <div class="icon-box">
               <h4><a href="">Fisiatría</a></h4>
               <p>Profesional a cargo de un proceso de  valoración preliminar e integral del paciente.</p>
-              <div class="collapse" id="collapseExample">
+              <div class="collapse" id="collapseFisiatria">
                 <div class="card card-body" ><p>
                   Efectúa los diagnósticos y diseña el plan de tratamiento para la rehabilitación interdisciplinaria según las necesidades detectadas en cada persona en situación de discapacidad. </p>
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" >
+                <button class="btn buy-btn" id="btnFisiatria" type="button" data-toggle="collapse" data-target="#collapseFisiatria" aria-expanded="false" aria-controls="collapseFisiatria" >
                   Ver Más
                   </button>
               </p>
@@ -201,13 +201,13 @@
             <div class="icon-box">
               <h4><a href="">Neuropsicología</a></h4>
               <p>Profesional que diagnostica implementando batería de test neuropsicológicos, a los fines efectuar una descripción profunda de las funciones cerebrales superiores de las personas.</p>
-              <div class="collapse" id="collapse1">
+              <div class="collapse" id="collapseNeuro">
                 <div class="card card-body" ><p>
                   Elaboración de diagnóstico y confección del perfil neuropsicológico para tramitación del Certificado Único de Discapacidad.</p>
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapseExample" >
+                <button class="btn buy-btn" id="btnNeuro" type="button" data-toggle="collapse" data-target="#collapseNeuro" aria-expanded="false" aria-controls="collapseNeuro" >
                   Ver Más
                   </button>
               </p>
@@ -218,13 +218,13 @@
             <div class="icon-box">
               <h4><a href="">Fonoaudiología</a></h4>
               <p>Realiza la valoración, diagnóstico clínico fonoaudiológico, pronóstico y terapéutica en los procesos que perturben el desarrollo de la organización lingüística y su deterioro.</p>
-                <div class="collapse" id="collapse2">
+                <div class="collapse" id="collapseFono">
                 <div class="card card-body" ><p>
                   También en los niveles fonético-fonológico, morfosintáctico y semántico del lenguaje, como también su efecto en aprendizaje pedagógico.</p>
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapseExample" >
+                <button class="btn buy-btn" id="btnFono" type="button" data-toggle="collapse" data-target="#collapseFono" aria-expanded="false" aria-controls="collapseFono" >
                   Ver Más
                   </button>
               </p>
@@ -235,13 +235,13 @@
             <div class="icon-box">
               <h4><a href="">Kinesiología y Fisioterapia</a></h4>
               <p>Ejecuta las prestaciones asistenciales, para la evaluación, prevención, conservación, tratamiento y recuperación de la capacidad física de las personas a través de la Kinefilaxia, Kinesiterapia y la Fisioterapia.</p>
-              <div class="collapse" id="collapse3">
+              <div class="collapse" id="collapseKine">
                 <div class="card card-body" ><p>
                    Integra el equipo interdisciplinario, colaborando en mejorar la calidad de vida de las personas con discapacidad y sus familias, atendiendo sus necesidades básicas de rehabilitación e inclusión.</p>
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapseExample" >
+                <button class="btn buy-btn" id="btnKine" type="button" data-toggle="collapse" data-target="#collapseKine" aria-expanded="false" aria-controls="collapseKine" >
                   Ver Más
                   </button>
               </p>
@@ -252,13 +252,13 @@
             <div class="icon-box">
               <h4><a href="">Psicomotricidad</a></h4>
               <p>Participa en la elaboración, ejecución, evaluación de planes, programas y acciones pertinentes al área de la psicomotricidad, en el ámbito de la educación de nivel y especial.</p>
-              <div class="collapse" id="collapse4">
+              <div class="collapse" id="collapsePsicomo">
                 <div class="card card-body" ><p>
                   Integra el equipo interdisciplinario para la realización del diagnóstico y tratamiento integral de la persona en todo el ciclo vital.</p>
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapseExample" >
+                <button class="btn buy-btn" id="btnPsicomo" type="button" data-toggle="collapse" data-target="#collapsePsicomo" aria-expanded="false" aria-controls="collapsePsicomo" >
                   Ver Más
                   </button>
               </p>
@@ -547,7 +547,112 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script type="text/javascript">
 
+    
+    $('#btnPsicopeda').click(function (){
+      var that = $(this);
+      var texto = that.html();     //tomar el contenido
+      if( texto  == 'Ver Menos') {    //comparar el contenido
+          that.html('Ver Más');      //escribirlo
+          $('.box-psicolo').css('position', 'relative');
+          $('.box-trabsocial').css('position', 'relative');
+          
+      }
+      else {
+          that.html('Ver Menos');     //escribirlo
+      }
+    });
+
+    $('#btnPsicolo').click(function (){
+      var that = $(this);
+      var texto = that.html();     //tomar el contenido
+      if( texto  == 'Ver Menos') {    //comparar el contenido
+          that.html('Ver Más');      //escribirlo
+      }
+      else {
+          that.html('Ver Menos');     //escribirlo
+      }
+    });
+
+    $('#btntrabsocial').click(function (){
+      var that = $(this);
+      var texto = that.html();     //tomar el contenido
+      if( texto  == 'Ver Menos') {    //comparar el contenido
+          that.html('Ver Más');      //escribirlo
+      }
+      else {
+          that.html('Ver Menos');     //escribirlo
+      }
+    });
+
+    $('#btnGestion').click(function (){
+      var that = $(this);
+      var texto = that.html();     //tomar el contenido
+      if( texto  == 'Ver Menos') {    //comparar el contenido
+          that.html('Ver Más');      //escribirlo
+      }
+      else {
+          that.html('Ver Menos');     //escribirlo
+      }
+    });
+
+    $('#btnFisiatria').click(function (){
+      var that = $(this);
+      var texto = that.html();     //tomar el contenido
+      if( texto  == 'Ver Menos') {    //comparar el contenido
+          that.html('Ver Más');      //escribirlo
+      }
+      else {
+          that.html('Ver Menos');     //escribirlo
+      }
+    });
+
+    $('#btnNeuro').click(function (){
+      var that = $(this);
+      var texto = that.html();     //tomar el contenido
+      if( texto  == 'Ver Menos') {    //comparar el contenido
+          that.html('Ver Más');      //escribirlo
+      }
+      else {
+          that.html('Ver Menos');     //escribirlo
+      }
+    });
+
+    $('#btnFono').click(function (){
+      var that = $(this);
+      var texto = that.html();     //tomar el contenido
+      if( texto  == 'Ver Menos') {    //comparar el contenido
+          that.html('Ver Más');      //escribirlo
+      }
+      else {
+          that.html('Ver Menos');     //escribirlo
+      }
+    });
+
+    $('#btnKine').click(function (){
+      var that = $(this);
+      var texto = that.html();     //tomar el contenido
+      if( texto  == 'Ver Menos') {    //comparar el contenido
+          that.html('Ver Más');      //escribirlo
+      }
+      else {
+          that.html('Ver Menos');     //escribirlo
+      }
+    });
+
+    $('#btnPsicomo').click(function (){
+      var that = $(this);
+      var texto = that.html();     //tomar el contenido
+      if( texto  == 'Ver Menos') {    //comparar el contenido
+          that.html('Ver Más');      //escribirlo
+      }
+      else {
+          that.html('Ver Menos');     //escribirlo
+      }
+    });
+
+  </script>
 
 </body>
 
