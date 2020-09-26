@@ -260,23 +260,23 @@ Las personas con altas capacidades presentan un nivel de rendimiento intelectual
         </div>
 
         <div class="row justify-content-center IM2020 ">
-          <div class="col-2">
+          <div class="col-1">
               <a href="https://www.facebook.com/fundacion.arkho" target="_blank"><i class="fab fa-facebook-f"></i></a>
           </div>
 
-          <div class="col-2">
+          <div class="col-1">
             <a href="https://www.youtube.com/channel/UC2UHuvShGVYOzp4Pct3yDww/?guided_help_flow=5" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a>
           </div>
 
-          <div class="col-2">
+          <div class="col-1">
             <a href="https://api.whatsapp.com/send?phone=+54 3512333551" target="_blank"><i class="fab fa-whatsapp"></i></a>
           </div>
 
-          <div class="col-2">
+          <div class="col-1">
             <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
           </div>
 
-          <div class="col-2">
+          <div class="col-1">
             <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
           </div>
  
