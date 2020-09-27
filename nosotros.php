@@ -84,8 +84,18 @@
             </div>
           </div>
 
-          <div class="col-lg-6">
+          <div class="d-none d-block-md col-lg-6">
             <div class="testimonial-item mt-4 mt-lg-0" style=" height: 300px; text-align: justify;">
+<i class="icofont-group"></i>
+              <span>MISIÓN</span>
+              <p>
+               Somos una Institución dedicada a brindar los apoyos necesarios a las personas con discapacidad (PcD) que asisten a cualquier modalidad del sistema educativo argentino. La inclusión de niños, niñas, adolescentes, jóvenes y adultos con discapacidad debe hacerse cuidadosamente, evaluando cada situación en particular, y  a partir de allí desarrollar los programas específicos para ser aplicados. Dichas evaluaciones se realizan de manera interdisciplinaria, contando con un equipo de Profesionales de diferentes disciplinas (Psicología, Psicopedagogía, Psicomotricidad, profesores de Educación Especial, Neuropsicología, Fisiatría, Kinesiología y Fisioterapia, Fonoaudiología y Trabajo Social) para prevenir y asistir de manera holística, ordenada, responsable y respetuosa las necesidades de cada persona en todos sus ciclos vitales.
+              </p>
+            </div>
+          </div>
+
+          <div class="d-block d-none-md col-lg-6">
+            <div class="testimonial-item mt-4 mt-lg-0" style=" height: 500px; text-align: justify;">
 <i class="icofont-group"></i>
               <span>MISIÓN</span>
               <p>
@@ -102,7 +112,7 @@
 
   
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    <section id="services mt-6 mt-lg-0" class="services" style="">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2>ESPECIALIDADES</h2>
