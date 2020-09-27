@@ -105,7 +105,7 @@
 
         <div class="row">
 
-          <div class="col-lg-6">
+          <div class="d-none d-block-lg col-lg-6">
             <div class="testimonial-item" style="height: 500px;">
             <i class="icofont-check-circled"></i>
               
@@ -117,8 +117,36 @@
             </div>
           </div>
 
-          <div class="col-lg-6">
+          <div class="d-block d-none-lg col-lg-6">
+            <div class="testimonial-item" style="height: 600px;">
+            <i class="icofont-check-circled"></i>
+              
+              <span style="margin-bottom: 30px;">OBJETIVOS</span>
+              <p>Promover la inclusión de niños, niñas, adolescentes, jóvenes y adultos con discapacidad o Altas Capacidades en cualquiera de las modalidades del sistema educativo argentino. <br> <br>
+              Brindar a niños, niñas, adolescentes, jóvenes y adultos con discapacidad y /o Altas Capacidades los apoyos educativos y terapéuticos interdisciplinarios, acordes a las necesidades y particularidades de cada uno de ellos, a fin de lograr el máximo desarrollo de sus potencialidades. <br> <br>
+              Orientar a las familias y las escuelas , brindando contención e información en temas vinculados a la problemática de su hijo y a los beneficios de implementar una escuela inclusiva para todos y todas. <br> <br>
+              Crear redes sociales que organicen planes de acción para una mayor inclusión de las Personas con Discapacidad en la comunidad.</p>
+            </div>
+          </div>
+
+          <div class="d-none d-block-lg col-lg-6">
             <div class="testimonial-item mt-4 mt-lg-0" style="height: 500px;">
+              <i class="icofont-simple-smile"></i>
+              <span style="margin-bottom: 30px;">BENEFICIOS</span>
+              <p>
+                Desarrollo de fortalezas y dones individuales, con expectativas altas y apropiadas para cada estudiante. <br> <br>
+                El trabajo sobre los objetivos individuales durante su participación en la vida escolar o universitaria con otros estudiantes hará que potencie sus capacidades.  <br> <br>
+                Involucrar a los padres en la educación académica de sus hijos y en las actividades de las escuelas de ámbito formal y no formal.  <br> <br>
+                Fomento de una cultura escolar de respeto y pertenencia.  <br> <br>
+                La educación inclusiva ofrece oportunidades para aprender y aceptar las diferencias individuales, lo que reduce el impacto de acoso e intimidación.  <br> <br>
+                Desarrollo de amistades con una amplia variedad de otros estudiantes, cada uno con sus propias necesidades y capacidades individuales.  <br> <br>
+                Aprecio de la diversidad y la inclusión en un nivel más amplio dentro de una comunidad.  <br> <br>
+              </p>
+            </div>
+          </div>
+
+          <div class="d-block d-none-lg col-lg-6">
+            <div class="testimonial-item mt-4 mt-lg-0" style="height: 730px;">
               <i class="icofont-simple-smile"></i>
               <span style="margin-bottom: 30px;">BENEFICIOS</span>
               <p>
