@@ -107,31 +107,28 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="forms/formulario.php" method="post" role="form" class="php-email-form">
+            <form id="form" class="form" action="forms/contact.php" method="POST">
               <div class="form-row">
                 <div class="col form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Nombre y apellido" data-rule="minlen:4" data-msg="Por favor, ingrese al menos 4 caracteres" />
-                  <div class="validate"></div>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nombre y apellido" required="" />
                 </div>
                 <div class="col form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="E-mail" data-rule="email" data-msg="Por favor, introduzca una dirección de correo electrónico válida" />
-                  <div class="validate"></div>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="E-mail" required=""/>
                 </div>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" data-rule="minlen:4" data-msg="Por favor, ingrese al menos 8 caracteres de asunto" />
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" required="" />
                 <div class="validate"></div>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Por favor, escribe algo." placeholder="Mensaje"></textarea>
-                <div class="validate"></div>
+                <textarea class="form-control" name="message" id="message" rows="5" required="" ></textarea>
               </div>
-              <div class="mb-3">
-                <div class="loading">Enviando</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Tu mensaje ha sido enviado. ¡Gracias!</div>
+               <div class="text-center">
+                <input id="submit_buttom" name="enviar" type="submit" value='Enviar'>
               </div>
-              <div class="text-center"><button type="submit">Enviar</button></div>
+              <div class="col-12" id="contentResult" style="height: 80px; background: #1acc8d">
+                <p id="resultado"></p>
+              </div>
             </form>
           </div>
 
