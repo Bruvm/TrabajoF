@@ -1,41 +1,54 @@
 <?php
-  /**
-  * Requires the "PHP Email Form" library
-  * The "PHP Email Form" library is available only in the pro version of the template
-  * The library should be uploaded to: vendor/php-email-form/php-email-form.php
-  * For more info and help: https://bootstrapmade.com/php-email-form/
-  */
+require("class.phpmailer.php");
+require("class.smtp.php");
 
-  // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'contact@example.com';
+$mail = new PHPMailer();
 
-  if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
-    include( $php_email_form );
-  } else {
-    die( 'Unable to load the "PHP Email Form" Library!');
-  }
+$mail->IsSMTP();                                      // set mailer to
 
-  $contact = new PHP_Email_Form;
-  $contact->ajax = true;
-  
-  $contact->to = $receiving_email_address;
-  $contact->from_name = $_POST['name'];
-  $contact->from_email = $_POST['email'];
-  $contact->subject = $_POST['subject'];
+$mail->Host = "mail.metrolink.com.ar";  // specify main and backup server
+$mail->SMTPAuth = true;     // turn on SMTP authentication
+$mail->Username = "melibruvera@hotmail.com";  // SMTP username
+$mail->Password = "homero19"; // SMTP password
 
-  // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
-  /*
-  $contact->smtp = array(
-    'host' => 'example.com',
-    'username' => 'example',
-    'password' => 'pass',
-    'port' => '587'
-  );
-  */
+$mail->From = "melibruvera@hotmail.com";
+$mail->FromName = "Contacto desde Web [".$email."]";        // remitente
+$mail->AddAddress("melibruvera@hotmail.com", "destinatario");        // destinatario
 
-  $contact->add_message( $_POST['name'], 'From');
-  $contact->add_message( $_POST['email'], 'Email');
-  $contact->add_message( $_POST['message'], 'Message', 10);
+$mail->AddReplyTo("melibruvera@hotmail.com", "respuesta a");    // responder a
 
-  echo $contact->send();
-?>
+$mail->WordWrap = 50;     // set word wrap to 50 characters
+$mail->IsHTML(true);     // set email
+
+
+$nombre = $_POST['name'];
+$email = $_POST['email'];
+$subject = $_POST['subject'];
+$message = $_POST['message'];
+
+
+$cuerpoEmail="Nombre: " .$nombre;
+$cuerpoEmail.="<br>Email: " .$email;
+$cuerpoEmail.="<br>Asunto: " .$subject;
+$cuerpoEmail.="<br>Mensaje: " .$message ;
+
+
+
+$mail->Subject = $subject;
+$mail->Body    = $cuerpoEmail;
+$mail->AltBody = $cuerpoEmail;
+if(!$mail->Send())
+{
+   echo "Hubo un error, vuelva a intentar";
+   echo "Mailer Error: " . $mail->ErrorInfo;
+   exit;
+}else{
+  echo "se envio";
+}
+//header("location:../contacto.html");
+//echo "El formulario fue enviado";
+//if("location:../contacto.html"){
+
+//}
+
+?> 
