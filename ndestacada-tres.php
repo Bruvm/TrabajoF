@@ -82,7 +82,7 @@
               </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</a>
+                <a href="#">Trabajando codo a codo con el municipio</a>
               </h2>
 
 
@@ -114,7 +114,7 @@
               
 
               </div>
-
+<br>
 
             </article><!-- End blog entry -->
           </div>
