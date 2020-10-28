@@ -62,7 +62,7 @@
           <li><a href="index.php">ARK HO</a></li>
           <li><a href="ndestacadas.php">Noticias Destacadas</a></li>
         </ol>
-        <h2>NOTICIA DESTACADA 3</h2>
+        <h2>ARKHO PRESENTE JUNTO AL MUNICIPIO </h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
@@ -78,7 +78,7 @@
             <article class="entry entry-single ">
 
               <div class="entry-img">
-                <img src="assets/img/blog-1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/ndestacadas/nd2.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -88,45 +88,30 @@
 
               <div class="entry-content">
                 <p>
-                  Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
-                  Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
-                </p>
-
-                <p>
-                  Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.
+                  Esta semana Fundación ARK HO fue recibida por el subsecretario de Políticas Sociales de la Municipalidad de Córdoba, Leonardo Lewylle, y el director de Protección de Derechos, Participación e Inclusión de las Personas con Discapacidad, Pablo Giesenow.
+                  <br>
+                   <br>
+                  Juntos pudieron dialogar sobre la realidad de las personas en situación de discapacidad, sus familias, aspectos actuales de la Inclusión Escolar en la pandemia y la importancia de articular programas que permitan el acceso a la información y a los servicios para todas la personas en situación de discapacidad y así ampliar sus derechos.
                 </p>
 
                 <blockquote>
                   <i class="icofont-quote-left quote-left"></i>
                   <p>
-                    Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.
+                    Creemos en un cambio significativo en el desarrollo de la comunidad, procurando educación, valores y bienestar entres sus miembros para lograr de esta manera una sociedad más inclusiva y equitativa. 
                   </p>
                   <i class="las la-quote-right quote-right"></i>
                   <i class="icofont-quote-right quote-right"></i>
                 </blockquote>
 
-                <p>
-                  Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat.
-                  Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque.
-                  Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.
-                </p>
+               <nav class="nav-menu d-none d-lg-block">
+        <ul>
+        
+          <li  class="active"><a href="ndestacadas.php">Entradas recientes >></a></li>
+          
 
-                <h3>Et quae iure vel ut odit alias.</h3>
-                <p>
-                  Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui.
-                  Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea.
-                  Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.
-                </p>
+        </ul>
+      </nav><!-- .nav-menu -->
                 <img src="assets/img/blog-inside-post.jpg" class="img-fluid" alt="">
-
-                <h3>Ut repellat blanditiis est dolore sunt dolorum quae.</h3>
-                <p>
-                  Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel.
-                  Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.
-                </p>
-                <p>
-                  Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.
-                </p>
 
               </div>
 
