@@ -62,7 +62,7 @@
           <li><a href="index.php">ARK HO</a></li>
           <li><a href="ndestacadas.php">Noticias Destacadas</a></li>
         </ol>
-        <h2>NOTICIA DESTACADA 1</h2>
+        <h2>¡Pasamos la auditoria!</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
@@ -78,57 +78,49 @@
             <article class="entry entry-single ">
 
               <div class="entry-img">
-                <img src="assets/img/blog-1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/ndestacadas/ndd.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</a>
+                <a>Una vez más, hemos cumplido con el protocolo de la súper intendencia de salud.</a>
               </h2>
 
 
               <div class="entry-content">
-                <p>
-                  Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
-                  Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
-                </p>
 
                 <p>
-                  Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.
-                </p>
-
-                <blockquote>
-                  <i class="icofont-quote-left quote-left"></i>
+                  Estamos orgullosos y felices en contarles que hemos pasado la nueva auditoría por parte de la super intendencia de salud. Las cual nos destaca como un "Centro categorizado". </p>
+                
+                  <h3>
+                    ¿Qué nos solicitan para obtener esta categorización?
+                  </h3>
                   <p>
-                    Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.
-                  </p>
-                  <i class="las la-quote-right quote-right"></i>
-                  <i class="icofont-quote-right quote-right"></i>
-                </blockquote>
+                   Para ello debemos tener: habilitación de municipal, de salud de consultorio y de bomberos. Asi como también, contar con una infraestructura que sea accesible para las personas con discapacidad, tener una manera de pensar las historias clínicas, devoluciones diarias de todo lo que hacen los pacientes y tener cierta calidad institucional. 
+                 </p>
+                   <p>
+                   Debemos contar con personeria jurídica,  y pasar estas auditorias anuales por parte del ministerio de salud, del área de ruge presa que da la habilitación de consultorio, del área de la superintendencia que es la junta categorización y auditación.
 
-                <p>
-                  Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat.
-                  Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque.
-                  Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.
                 </p>
 
-                <h3>Et quae iure vel ut odit alias.</h3>
-                <p>
-                  Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui.
-                  Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea.
-                  Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.
-                </p>
-                <img src="assets/img/blog-inside-post.jpg" class="img-fluid" alt="">
 
-                <h3>Ut repellat blanditiis est dolore sunt dolorum quae.</h3>
+
                 <p>
-                  Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel.
-                  Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.
-                </p>
-                <p>
-                  Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.
+                  ¡<strong>Gracias</strong> por todo el esfuerzo a los profesionales!
                 </p>
 
+               <br>
               </div>
+
+              <nav class="nav-menu d-none d-lg-block">
+        <ul>
+        
+          <li  class="active"><a href="ndestacadas.php">Entradas recientes >></a></li>
+          
+
+        </ul>
+      </nav><!-- .nav-menu -->
+      <br>
+
 
 
             </article><!-- End blog entry -->
