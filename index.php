@@ -71,7 +71,7 @@
                 <h2 class="animated fadeInDown">¡BIENVE<span>NIDOS!</span></h2>
                 <p class="animated fadeInUp">Los invitamos a conocernos. Nuestra apuesta: construir un mundo más real, empático  e inclusivo.
 </p>
-                <a href="ndestacada-uno.php" class="btn-get-started animated fadeInUp">Leer más</a>
+                <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
           </div>
@@ -80,9 +80,9 @@
           <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg) no-repeat center fixed; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animated fadeInDown">Lorem <span>Ipsum Dolor</span></h2>
+                <h2 class="animated fadeInDown">¡BIENVE<span>NIDOS!</span></h2>
                 <p class="animated fadeInUp">Los invitamos a conocernos. Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
-                <a href="ndestacadas-dos.php" class="btn-get-started animated fadeInUp">Leer más</a>
+                <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
           </div>
@@ -91,9 +91,9 @@
           <div class="carousel-item" style="background: url(assets/img/slide/slide-3.jpg) no-repeat center fixed; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animated fadeInDown">Sequi ea <span>Dime Lara</span></h2>
+                <h2 class="animated fadeInDown">¡BIENVE<span>NIDOS!</span></h2>
                 <p class="animated fadeInUp">Los invitamos a conocernos. Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
-                <a href="ndestacada-tres.php" class="btn-get-started animated fadeInUp">Leer más</a>
+                <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
           </div>
