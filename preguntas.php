@@ -80,7 +80,7 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-5">
             <i class="icofont-question-circle"></i>
-            <h4>¿Que obras sociales o prepagas atienden en la Fundación?</h4>
+            <h4>¿Qué obras sociales o prepagas atienden en la Fundación?</h4>
           </div>
           <div class="col-lg-7">
             <p>
@@ -104,11 +104,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-5">
             <i class="icofont-question-circle"></i>
-            <h4>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?</h4>
+            <h4>¿Cuál es el intervalo de edad para recibir asistencia con la fundación?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus.
+              Por el momento estamos brindando asistencia a personas con edades desde 0 a 18 años.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
