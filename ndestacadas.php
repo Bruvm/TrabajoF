@@ -103,8 +103,7 @@
 
               <div class="entry-content">
                 <p>
-                  Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
-                  Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
+                  Estamos orgullosos y felices en contarles que hemos pasado la nueva auditoría por parte de la super intendencia de salud. Las cual nos destaca como un "Centro ...
                 </p>
                 <div class="read-more">
                   <a href="ndestacada-uno.php">Leer más</a>
@@ -156,7 +155,7 @@
 
         <div class="row">      
             <div class="col-lg-6 pt-4 pt-lg-0 content order-2 order-lg-1">
-              <h3>Igualdad de derechos </h3>
+              <h3>Igualdad de derechos</h3>
               <p class="font-italic">
                 Fundación ARK HO fue recibida por el subsecretario de Políticas Sociales de la Municipalidad de Córdoba, Leonardo Lewylle, y el director de Protección de Derechos, Participación e Inclusión de las Personas con Discapacidad, Pablo Giesenow.
               </p>
@@ -165,7 +164,7 @@
                 <li><i class="icofont-check-circled"></i> Unir realidades para cubrir</li>
                 
               <p>
-               Juntos pudieron dialogar sobre la realidad de las personas en situación de discapacidad, sus familias, aspectos actuales de la Inclusión Escolar en la pandemia y la importancia ...
+               Juntos pudimos dialogar sobre la realidad de las personas en situación de discapacidad, sus familias, aspectos actuales de la Inclusión Escolar en la pandemia y la importancia ...
               </p>
               <div class="read-more">
                   <a href="ndestacada-tres.php">Leer más</a>
