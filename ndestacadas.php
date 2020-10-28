@@ -83,7 +83,7 @@
     <section id="blog" class="blog ">
       <div class="container">
         <div class="section-title">
-              <h2>Información destacada</h2>
+              <h2>¡Pasamos la auditoría! </h2>
             </div>
 
         <div class="row justify-content-center">
@@ -93,11 +93,11 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="assets/img/blog-1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/ndestacadas/ndd.png"  alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</a>
+                <a >Cuánto esfuerzo ¡Gracias por todo el esfuerzo a los profesionales!</a>
               </h2>
 
 
@@ -131,24 +131,21 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/ndestacadas/nd1.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content">
 
-            <h3>Aquí estaría la primera noticia</h3>
+            <h3>Instituciones unidas</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              El pasado 16 de septiembre nos reunimos, junto a otras 30 organizaciones, con el Municipio de la Ciudad de Córdoba, para hacer conocer y respetar los derechos de las personas en situación de Discapacidad.  
             </p>
             <ul>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="icofont-check-circled"></i> Martín Llaryora escuchó nuestras inquietudes y necesidades en este contexto de pandemia que estamos viviendo.</li>
+              <li><i class="icofont-check-circled"></i> Trabajo en equipo</li>
+              <li><i class="icofont-check-circled"></i> Córdoba más accesible para los vecinos. </li>
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+             Celebramos gratamente el encuentro con otros compañeros de trabajo territorial, y estamos inmensamente agradecidos a la Municipalidad de Córdoba, a Martín Llaryora, a Raúl La Cava, a Leonardo Lewylle y a Pablo Giesenow por la oportunidad de dejarnos ...
             </p>
             <div class="read-more">
                   <a href="ndestacada-dos.php">Leer más</a>
@@ -159,27 +156,23 @@
 
         <div class="row">      
             <div class="col-lg-6 pt-4 pt-lg-0 content order-2 order-lg-1">
-              <h3>Y Aquí la segunda</h3>
+              <h3>Igualdad de derechos </h3>
               <p class="font-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                Fundación ARK HO fue recibida por el subsecretario de Políticas Sociales de la Municipalidad de Córdoba, Leonardo Lewylle, y el director de Protección de Derechos, Participación e Inclusión de las Personas con Discapacidad, Pablo Giesenow.
               </p>
               <ul>
-                <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-              </ul>
+                <li><i class="icofont-check-circled"></i> La realidad de las personas en situación de discapacidad</li>
+                <li><i class="icofont-check-circled"></i> Unir realidades para cubrir</li>
+                
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum
+               Juntos pudieron dialogar sobre la realidad de las personas en situación de discapacidad, sus familias, aspectos actuales de la Inclusión Escolar en la pandemia y la importancia ...
               </p>
               <div class="read-more">
                   <a href="ndestacada-tres.php">Leer más</a>
                 </div>
             </div>
             <div class="col-lg-6 order-1 order-lg-2">
-              <img src="assets/img/about.jpg" class="img-fluid" alt="">
+              <img src="assets/img/ndestacadas/nd2.jpg" class="img-fluid" alt="">
             </div>
           </div>
 
