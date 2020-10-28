@@ -116,11 +116,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
           <div class="col-lg-5">
             <i class="icofont-question-circle"></i>
-            <h4>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h4>
+            <h4>¿Con que obra social puedo hacerme atender?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Aperiam itaque sit optio et deleniti eos nihil quidem cumque. Voluptas dolorum accusantium sunt sit enim. Provident consequuntur quam aut reiciendis qui rerum dolorem sit odio. Repellat assumenda soluta sunt pariatur error doloribus fuga.
+              APROSS, OMINT, Ospaga, ASE, Jerárquico salud. 
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
