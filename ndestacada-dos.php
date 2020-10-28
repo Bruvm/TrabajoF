@@ -62,7 +62,7 @@
           <li><a href="index.php">ARK HO</a></li>
           <li><a href="ndestacadas.php">Noticias Destacadas</a></li>
         </ol>
-        <h2>NOTICIA DESTACADA 2</h2>
+        <h2>REUNIÓN CON EL MUNICIPIO DE LA CIUDAD DE CÓRDOBA</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
@@ -78,57 +78,53 @@
             <article class="entry entry-single ">
 
               <div class="entry-img">
-                <img src="assets/img/blog-1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/ndestacadas/nd1.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</a>
+                <a></a>
               </h2>
 
 
               <div class="entry-content">
-                <p>
-                  Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
-                  Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
-                </p>
-
-                <p>
-                  Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.
-                </p>
-
+                
                 <blockquote>
                   <i class="icofont-quote-left quote-left"></i>
                   <p>
-                    Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.
+                    Creemos que las instituciones van a ser el puente a través del cual nosotros como estado vamos a poder llegar, de mejor manera, a las familias y personas con discapacidad. 
                   </p>
                   <i class="las la-quote-right quote-right"></i>
                   <i class="icofont-quote-right quote-right"></i>
                 </blockquote>
 
                 <p>
-                  Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat.
-                  Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque.
-                  Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.
+                  En el día de la fecha nos reunimos 30 organizaciones con el Municipio de la Ciudad de Córdoba, todas Instituciones con cuerpo, alma y corazón puestos en hacer conocer y respetar los derechos de las personas en situación de Discapacidad. El intendente escuchó atentamente, y luego tomó nuestras palabras, dijo que utilizaría nuestro decir “personas en situación de discapacidad”.
+                  Cuando decimos en situación (no como una condición), establecemos una mirada epistemológica, teórica, y social acerca de lo que pensamos de la realidad. Estamos convencidos que la discapacidad es una situación, en el sentido que son los distintos contextos que habitamos las personas, los que terminan convirtiendo las vivencias en situaciones discapacitantes. No le pertenece a la persona, sino a que hemos armado un mundo en donde solo pueden entrar y estar algunos, aquellos que se acercan a la arbitraria norma.
+                  
                 </p>
 
-                <h3>Et quae iure vel ut odit alias.</h3>
+                <h3>Nuestro horizonte</h3>
                 <p>
-                  Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui.
-                  Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea.
-                  Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.
+                  Tenemos la certeza de andar un camino, que rompan esas situaciones, que rearmen otras, que nos permitan deconstruir miradas, y situarnos a todos en igualdad de condiciones. Celebramos gratamente el encuentro con otros compañeros de trabajo territorial, y estamos inmensamente agradecidos a la Municipalidad de Córdoba, a Martín Llaryora, a Raúl La Cava, a Leonardo Lewylle y a Pablo Giesenow por la oportunidad de dejarnos poner en palabras nuestras experiencias y trayectorias.
+
+                  <br>
+                  <br>
+                  Fundación Ark ho.
                 </p>
                 <img src="assets/img/blog-inside-post.jpg" class="img-fluid" alt="">
 
-                <h3>Ut repellat blanditiis est dolore sunt dolorum quae.</h3>
-                <p>
-                  Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel.
-                  Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.
-                </p>
-                <p>
-                  Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.
-                </p>
 
               </div>
+
+              
+                <nav class="nav-menu d-none d-lg-block">
+        <ul>
+        
+          <li  class="active"><a href="ndestacadas.php">Entradas recientes >></a></li>
+          
+
+        </ul>
+      </nav><!-- .nav-menu -->
 
 
             </article><!-- End blog entry -->
