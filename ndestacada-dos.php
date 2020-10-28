@@ -125,6 +125,7 @@
 
         </ul>
       </nav><!-- .nav-menu -->
+<br>
 
 
             </article><!-- End blog entry -->
