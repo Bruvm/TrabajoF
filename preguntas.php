@@ -92,11 +92,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
           <div class="col-lg-5">
             <i class="icofont-question-circle"></i>
-            <h4>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h4>
+            <h4>¿Cómo obtener el Certificado Único de Discapacidad (CUD)?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
+              En la <a href="https://www.argentina.gob.ar/como-obtener-el-certificado-unico-de-discapacidad-cud">página</a> del gobierno Argentino se encuentran los requisitos y pasos a seguir para obtenerlo.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
