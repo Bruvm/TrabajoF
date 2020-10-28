@@ -91,7 +91,7 @@
                   Esta semana Fundación ARK HO fue recibida por el subsecretario de Políticas Sociales de la Municipalidad de Córdoba, Leonardo Lewylle, y el director de Protección de Derechos, Participación e Inclusión de las Personas con Discapacidad, Pablo Giesenow.
                   <br>
                    <br>
-                  Juntos pudieron dialogar sobre la realidad de las personas en situación de discapacidad, sus familias, aspectos actuales de la Inclusión Escolar en la pandemia y la importancia de articular programas que permitan el acceso a la información y a los servicios para todas la personas en situación de discapacidad y así ampliar sus derechos.
+                  Juntos pudimos dialogar sobre la realidad de las personas en situación de discapacidad, sus familias, aspectos actuales de la Inclusión Escolar en la pandemia y la importancia de articular programas que permitan el acceso a la información y a los servicios para todas la personas en situación de discapacidad y así ampliar sus derechos.
                 </p>
 
                 <blockquote>
@@ -111,7 +111,7 @@
 
         </ul>
       </nav><!-- .nav-menu -->
-                <img src="assets/img/blog-inside-post.jpg" class="img-fluid" alt="">
+              
 
               </div>
 
