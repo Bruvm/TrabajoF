@@ -104,7 +104,7 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-5">
             <i class="icofont-question-circle"></i>
-            <h4>¿Cuál es el intervalo de edad para recibir asistencia con la fundación?</h4>
+            <h4>¿Cuál es el intervalo de edades para recibir asistencia de la fundación?</h4>
           </div>
           <div class="col-lg-7">
             <p>
