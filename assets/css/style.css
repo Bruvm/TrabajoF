@@ -2360,12 +2360,11 @@ section {
 /*MELI NO BORRES ESTO AQUI VA EL CSS DE LOS BOTONES DE LAS REDES SOCIALES*/
 
 .IM2020 a{
-  margin: 0 20px;
   width: 80px;
   height: 80px;
   background-color: #404040;
   display: inline-block;
-  border-radius: 20%;
+  border-radius: 50%;
   box-shadow: 10px 10px 16px rgba(0,0,0,.15),
               -10px -10px 16px rgba(255,255,255,.1);
   overflow: hidden;
@@ -2376,7 +2375,7 @@ section {
 
 .IM2020 a:hover{
   transform: scale(1.3);
-  border-radius: 20%;/*era %60 para que se haga circulo pero no me convencia ahi me gusta un poco mas igual es debatible*/
+  border-radius: 50%;/*era %60 para que se haga circulo pero no me convencia ahi me gusta un poco mas igual es debatible*/
 }
 
 .IM2020 a i::before{
