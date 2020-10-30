@@ -49,7 +49,7 @@
               <li><a href="team.html">Leyes de discapacidad </a></li>
             </ul>
           </li>
-          <li><a href="inclusion.php">Inclusión Educativa</a></li>
+          <li><a href="integracion.php">Integración Educativa</a></li>
           <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
           <li><a href="ndestacadas.php">Información Destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
@@ -136,7 +136,7 @@
             <h2 style="color: #D68831"><b>¿Quienes somos?</b></h2>
             <p class="font-italic" style="text-align: justify; font-size: 15px;">
               Nuestra Fundación nace en un inicio con la inquietud de acompañar de manera colaborativa a las personas en situación de discapacidad en el trayecto de su vida. Si bien en un primer momento nos ocupaba la escolaridad, nunca dejamos de considerar y ver a las personas en todos los aspectos del ciclo vital. Por ello, así como la escolaridad es una preocupación nuestra y de las familias, hemos aprendido que los niños se convierten en jóvenes y los jóvenes en adultos, y que los aprendizajes formales son fundamentales como así también lo es la inclusión en todos los aspectos de la sociedad.  
-              <br>Trabajar para conseguir la autonomía es un desafío familiar, institucional y social. Defender el respeto de  los derechos a una vida digna, integral, con ciudadanos partícipes en las decisiones de la comunidad es otro tema que nos convoca e interesa.Emprendemos una labor conjunta entre familias, instituciones, sociedad y <b>Fundación ARK HO</b>, para que los estereotipos y  preconceptos dejen de ser negativos, donde las barreras  sean cada vez menores para de esta manera construir una sociedad más inclusiva y respetuosa de las diferencias. 
+              <br>Trabajar para conseguir la autonomía es un desafío familiar, institucional y social. Defender el respeto de  los derechos a una vida digna, integral, con ciudadanos partícipes en las decisiones de la comunidad es otro tema que nos convoca e interesa. Emprendemos una labor conjunta entre familias, instituciones, sociedad y <b>Fundación ARK HO</b>, para que los estereotipos y  preconceptos dejen de ser negativos, donde las barreras  sean cada vez menores para de esta manera construir una sociedad más inclusiva y respetuosa de las diferencias. 
             </p>
           </div>
         </div>

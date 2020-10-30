@@ -42,8 +42,14 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li><a href="index.php">Home</a></li>
-          <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="inclusion.php">Inclusión Escolar</a></li>
+           <li class="drop-down"><a href="#">Institucional</a>
+            <ul>
+              <li><a href="nosotros.php">Nosotros</a></li>
+              <li><a href="team.html">Estatuto</a></li>
+              <li><a href="team.html">Leyes de discapacidad </a></li>
+            </ul>
+          </li>
+          <li><a href="integracion.php">Integración Educativa</a></li>
           <li  class="active"><a href="#">Preguntas Frecuentes</a></li>
           <li><a href="ndestacadas.php">Información Destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
@@ -96,7 +102,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-              En la <a href="https://www.argentina.gob.ar/como-obtener-el-certificado-unico-de-discapacidad-cud">página</a> del gobierno Argentino se encuentran los requisitos y pasos a seguir para obtenerlo.
+              En la <a href="https://www.argentina.gob.ar/como-obtener-el-certificado-unico-de-discapacidad-cud"><b>página del gobierno Argentino</b></a> se encuentran los requisitos y pasos a seguir para obtenerlo.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -125,7 +131,7 @@
           </div>
         </div><!-- End F.A.Q Item-->
 
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
+       <!-- <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
           <div class="col-lg-5">
             <i class="icofont-question-circle"></i>
             <h4>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</h4>
@@ -159,7 +165,7 @@
               Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
             </p>
           </div>
-        </div>
+        </div>-->
     </div>
   </section>
         <!-- End F.A.Q Item-->

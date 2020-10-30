@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Noticias Destacadas</title>
+  <title>Información Destacadas</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -48,13 +48,20 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li><a href="index.php">Home</a></li>
-          <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="inclusion.php">Inclusión escolar</a></li>
-          <li><a href="preguntas.php">Preguntas frecuentes</a></li>
-          <li  class="active"><a href="#">Información destacada</a></li>
+          <li class="drop-down"><a href="#">Institucional</a>
+            <ul>
+              <li><a href="nosotros.php">Nosotros</a></li>
+              <li><a href="team.html">Estatuto</a></li>
+              <li><a href="team.html">Leyes de discapacidad </a></li>
+            </ul>
+          </li>
+          <li><a href="integracion.php">Integración Educativa</a></li>
+          <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
+          <li class="active"><a href="#">Información Destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
 
         </ul>
+
       </nav><!-- .nav-menu -->
 
     </div>
@@ -69,9 +76,9 @@
 
         <ol>
           <li><a href="index.php">ARK HO</a></li>
-          <li>Noticias Destacadas</li>
+          <li>Información destacada</li>
         </ol>
-        <h2>Noticias Destacadas</h2>
+        <h2>Información destacada</h2>
 
       </div>
     </section>
@@ -83,8 +90,8 @@
     <section id="blog" class="blog ">
       <div class="container">
         <div class="section-title">
-              <h2>¡Pasamos la auditoría! </h2>
-            </div>
+          <h2>Noticia destacada</h2>
+        </div>
 
         <div class="row justify-content-center">
 
@@ -92,21 +99,22 @@
 
             <article class="entry">
 
-              <div class="entry-img">
-                <img src="assets/img/ndestacadas/ndd.png"  alt="" class="img-fluid">
+              <div class="entry-img" style="margin: 0px;">
+                <img src="assets/img/ndestacadas/ndd.png"  alt="" class="img-fluid" style="min-width: 100%;">
               </div>
 
-              <h2 class="entry-title">
-                <a >Cuánto esfuerzo ¡Gracias por todo el esfuerzo a los profesionales!</a>
+              <h2 class="entry-title mt-3">
+                <a>¡Pasamos la auditoria!</a>
               </h2>
 
 
               <div class="entry-content">
+                <p><b>Cuánto esfuerzo ¡Gracias por todo el esfuerzo a los profesionales!</b></p>
                 <p>
                   Estamos orgullosos y felices en contarles que hemos pasado la nueva auditoría por parte de la super intendencia de salud. Las cual nos destaca como un "Centro ...
                 </p>
                 <div class="read-more">
-                  <a href="ndestacada-uno.php">Leer más</a>
+                  <a href="noticias/auditoria.php">Leer más</a>
                 </div>
               </div>
 
@@ -147,7 +155,7 @@
              Celebramos gratamente el encuentro con otros compañeros de trabajo territorial, y estamos inmensamente agradecidos a la Municipalidad de Córdoba, a Martín Llaryora, a Raúl La Cava, a Leonardo Lewylle y a Pablo Giesenow por la oportunidad de dejarnos ...
             </p>
             <div class="read-more">
-                  <a href="ndestacada-dos.php">Leer más</a>
+                  <a href="noticias/muniCba.php">Leer más</a>
                 </div>
           </div>
         </div>     <br><br> 
@@ -167,7 +175,7 @@
                Juntos pudimos dialogar sobre la realidad de las personas en situación de discapacidad, sus familias, aspectos actuales de la Inclusión Escolar en la pandemia y la importancia ...
               </p>
               <div class="read-more">
-                  <a href="ndestacada-tres.php">Leer más</a>
+                  <a href="noticias/arkhoMunicipio.php">Leer más</a>
                 </div>
             </div>
             <div class="col-lg-6 order-1 order-lg-2">
@@ -177,23 +185,20 @@
 
         </div>
       </section>
-<section class="blog">
+<!--<section class="blog">
             <div class="blog-pagination">
               <ul class="justify-content-center">
                 <li class="disabled"><i class="icofont-rounded-left"></i></li>
-                <li><a href="#">1</a></li>
-                <li class="active"><a href="#">2</a></li>
+                <li class="active"><a href="#">1</a></li>
+                <li ><a href="#">2</a></li>
                 <li><a href="#">3</a></li>
-                <li><a href="#"><i class="icofont-rounded-right"></i></a></li>
+                <liclass="disabled"><a href="#"><i class="icofont-rounded-right"></i></a></li>
               </ul>
             </div>
 
   </section>
 
-    <!-- End About Section -->
-
-    <!-- ======= Services Section ======= -->
-    
+    -->
 
 
 
@@ -207,7 +212,6 @@
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
   <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>

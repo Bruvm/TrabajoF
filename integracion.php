@@ -42,12 +42,17 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li><a href="index.php">Home</a></li>
-          <li><a href="nosotros.php">Nosotros</a></li>
-          <li class="active"><a href="#">Inclusión Educativa</a></li>
+          <li class="drop-down"><a href="#">Institucional</a>
+            <ul>
+              <li><a href="nosotros.php">Nosotros</a></li>
+              <li><a href="team.html">Estatuto</a></li>
+              <li><a href="team.html">Leyes de discapacidad </a></li>
+            </ul>
+          </li>
+          <li class="active"><a href="#">Integración Educativa</a></li>
           <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
           <li><a href="ndestacadas.php">Información Destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
-
         </ul>
       </nav><!-- .nav-menu -->
 
@@ -78,8 +83,8 @@
           </div>
 
           <div class="col-lg-6 pt-4 pt-lg-0 content">
-            <h3>¿Cómo realizamos el apoyo a la integración educativa?</h3>
-            <p class="font-italic" style="text-align: justify;">
+            <h2 style="color: #D68831"><b>¿Cómo realizamos el apoyo a la integración educativa?</b></h2>
+            <p class="font-italic" style="text-align: justify; font-size: 15px;">
               Los procesos de Inclusión Educativa (antes llamados procesos de Integración Escolar) son procesos dinamicos, flexibles, sistematicos y dependen de cada situación en particular. Se trata en primer lugar de un equipo que acompaña colaborativamente a la Institución Educativa y a la familia para promover y lograr la inserción plena de las personas en situación de discapacidad. <br>
               Un proceso se lleva a cabo mediante la selección de un DAI (Docente de Apoyo a la Inclusión) que acompaña al estudiante y a la docente de nivel en el desarrollo e implementación de los ajustes razonables y las configuraciones de apoyo necesarias en cada trayectoria educativa de los estudiantes. Cada proyecto de Inclusión Escolar es diseñado a partir del entrecruzamiento de los aportes teóricos y metodológicos de distintas disciplinas compartiendo los lineamientos  del plan de acción mundial a favor de las personas, el planeta y la prosperidad, que guiará las decisiones que adoptemos gobiernos y sociedad durante los próximos 15 años, establecidos  en la Agenda 2030
 
@@ -105,58 +110,53 @@
 
         <div class="row">
 
-          <div class="d-none d-block-lg col-lg-6">
-            <div class="testimonial-item" style="height: 500px;">
-            <i class="icofont-check-circled"></i>
-              
+          <div class="col-lg-6">
+            <div class="testimonial-item" >
+              <i class="icofont-check-circled"></i>
               <span style="margin-bottom: 30px;">OBJETIVOS</span>
-              <p>Promover la inclusión de niños, niñas, adolescentes, jóvenes y adultos con discapacidad o Altas Capacidades en cualquiera de las modalidades del sistema educativo argentino. <br> <br>
-              Brindar a niños, niñas, adolescentes, jóvenes y adultos con discapacidad y /o Altas Capacidades los apoyos educativos y terapéuticos interdisciplinarios, acordes a las necesidades y particularidades de cada uno de ellos, a fin de lograr el máximo desarrollo de sus potencialidades. <br> <br>
-              Orientar a las familias y las escuelas , brindando contención e información en temas vinculados a la problemática de su hijo y a los beneficios de implementar una escuela inclusiva para todos y todas. <br> <br>
-              Crear redes sociales que organicen planes de acción para una mayor inclusión de las Personas con Discapacidad en la comunidad.</p>
-            </div>
-          </div>
-
-          <div class="d-block d-none-lg col-lg-6">
-            <div class="testimonial-item" style="height: 600px;">
-            <i class="icofont-check-circled"></i>
-              
-              <span style="margin-bottom: 30px;">OBJETIVOS</span>
-              <p>Promover la inclusión de niños, niñas, adolescentes, jóvenes y adultos con discapacidad o Altas Capacidades en cualquiera de las modalidades del sistema educativo argentino. <br> <br>
-              Brindar a niños, niñas, adolescentes, jóvenes y adultos con discapacidad y /o Altas Capacidades los apoyos educativos y terapéuticos interdisciplinarios, acordes a las necesidades y particularidades de cada uno de ellos, a fin de lograr el máximo desarrollo de sus potencialidades. <br> <br>
-              Orientar a las familias y las escuelas , brindando contención e información en temas vinculados a la problemática de su hijo y a los beneficios de implementar una escuela inclusiva para todos y todas. <br> <br>
-              Crear redes sociales que organicen planes de acción para una mayor inclusión de las Personas con Discapacidad en la comunidad.</p>
-            </div>
-          </div>
-
-          <div class="d-none d-block-lg col-lg-6">
-            <div class="testimonial-item mt-4 mt-lg-0" style="height: 500px;">
-              <i class="icofont-simple-smile"></i>
-              <span style="margin-bottom: 30px;">BENEFICIOS</span>
               <p>
-                Desarrollo de fortalezas y dones individuales, con expectativas altas y apropiadas para cada estudiante. <br> <br>
-                El trabajo sobre los objetivos individuales durante su participación en la vida escolar o universitaria con otros estudiantes hará que potencie sus capacidades.  <br> <br>
-                Involucrar a los padres en la educación académica de sus hijos y en las actividades de las escuelas de ámbito formal y no formal.  <br> <br>
-                Fomento de una cultura escolar de respeto y pertenencia.  <br> <br>
-                La educación inclusiva ofrece oportunidades para aprender y aceptar las diferencias individuales, lo que reduce el impacto de acoso e intimidación.  <br> <br>
-                Desarrollo de amistades con una amplia variedad de otros estudiantes, cada uno con sus propias necesidades y capacidades individuales.  <br> <br>
-                Aprecio de la diversidad y la inclusión en un nivel más amplio dentro de una comunidad.  <br> <br>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>Promover la inclusión de niños, niñas, adolescentes, jóvenes y adultos con discapacidad o Altas Capacidades en cualquiera de las modalidades del sistema educativo argentino. 
+              </p>
+              <p>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>Brindar a niños, niñas, adolescentes, jóvenes y adultos con discapacidad y /o Altas Capacidades los apoyos educativos y terapéuticos interdisciplinarios, acordes a las necesidades y particularidades de cada uno de ellos, a fin de lograr el máximo desarrollo de sus potencialidades.
+              </p>
+              <p>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>Orientar a las familias y las escuelas , brindando contención e información en temas vinculados a la problemática de su hijo y a los beneficios de implementar una escuela inclusiva para todos y todas. 
+              </p>
+              <p>
+                <i class="icofont-arrow-right" style="font-size: 14px;padding-top: 4px;text-align: justify;"></i>Crear redes sociales que organicen planes de acción para una mayor inclusión de las Personas con Discapacidad en la comunidad.
               </p>
             </div>
           </div>
-
-          <div class="d-block d-none-lg col-lg-6">
-            <div class="testimonial-item mt-4 mt-lg-0" style="height: 730px;">
+          <div class="col-lg-6" style="min-height : 100% ">
+            <div class="testimonial-item">
               <i class="icofont-simple-smile"></i>
               <span style="margin-bottom: 30px;">BENEFICIOS</span>
               <p>
-                Desarrollo de fortalezas y dones individuales, con expectativas altas y apropiadas para cada estudiante. <br> <br>
-                El trabajo sobre los objetivos individuales durante su participación en la vida escolar o universitaria con otros estudiantes hará que potencie sus capacidades.  <br> <br>
-                Involucrar a los padres en la educación académica de sus hijos y en las actividades de las escuelas de ámbito formal y no formal.  <br> <br>
-                Fomento de una cultura escolar de respeto y pertenencia.  <br> <br>
-                La educación inclusiva ofrece oportunidades para aprender y aceptar las diferencias individuales, lo que reduce el impacto de acoso e intimidación.  <br> <br>
-                Desarrollo de amistades con una amplia variedad de otros estudiantes, cada uno con sus propias necesidades y capacidades individuales.  <br> <br>
-                Aprecio de la diversidad y la inclusión en un nivel más amplio dentro de una comunidad.  <br> <br>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>Desarrollo de fortalezas y dones individuales, con expectativas altas y apropiadas para cada estudiante. 
+              </p>
+              <p>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>El trabajo sobre los objetivos individuales durante su participación en la vida escolar o universitaria con otros estudiantes hará que potencie sus capacidades.
+              </p>
+              <p>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>
+                Involucrar a los padres en la educación académica de sus hijos y en las actividades de las escuelas de ámbito formal y no formal.
+              </p>
+              <p>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>
+                Fomento de una cultura escolar de respeto y pertenencia.
+              </p>
+              <p>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>
+                La educación inclusiva ofrece oportunidades para aprender y aceptar las diferencias individuales, lo que reduce el impacto de acoso e intimidación.
+              </p>
+              <p>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>
+                Desarrollo de amistades con una amplia variedad de otros estudiantes, cada uno con sus propias necesidades y capacidades individuales.
+              </p>
+              <p>
+                <i class="icofont-arrow-right" style="font-size: 14px; padding-top: 4px;text-align: justify;"></i>
+                Aprecio de la diversidad y la inclusión en un nivel más amplio dentro de una comunidad.
               </p>
             </div>
           </div>
@@ -189,22 +189,10 @@
           <p>El servicio podrá brindarse por módulos de un mínimo de 8 horas semanales o bien por hora de apoyo en caso de requerir menos de 8 horas semanales. En todos los casos, la cantidad de horas dependerá del proyecto individual e incluirá la atención individual, familiar y coordinación del equipo técnico profesional.
         </p>
         </div>
-
-       <!-- ESTO SE PUEDE UTILIZAR PARA OBRAS SOCILAES
-        <div class="owl-carousel clients-carousel">
-          <img src="assets/img/clients/client-1.png" alt="">
-          <img src="assets/img/clients/client-2.png" alt="">
-          <img src="assets/img/clients/client-3.png" alt="">
-          <img src="assets/img/clients/client-4.png" alt="">
-          <img src="assets/img/clients/client-5.png" alt="">
-          <img src="assets/img/clients/client-6.png" alt="">
-          <img src="assets/img/clients/client-7.png" alt="">
-          <img src="assets/img/clients/client-8.png" alt="">
         </div>-->
 
       </div>
     </section>
-
     
 
   </main><!-- End #main -->
@@ -216,7 +204,6 @@
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
   <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
