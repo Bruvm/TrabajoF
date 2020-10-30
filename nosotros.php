@@ -1,93 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Nosotros</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-</head>
+<?php include ('head.php'); ?>
 
 <body>
   <?php include ('conexion.php'); ?>
-  <header id="header">
-    <div class="container d-flex">
-
-      <div class="logo mr-auto">
-        <a href="index.php"><img src="assets/img/menu/logo.png" alt="" class="img-fluid"></a>
-      </div>
-
-      <nav class="nav-menu d-none d-lg-block">
-        <ul>
-          <li><a href="index.php">Home</a></li>
-          <li class="drop-down active"><a href="#">Institucional</a>
-            <ul>
-              <li><a href="nosotros.php">Nosotros</a></li>
-              <li><a href="team.html">Estatuto</a></li>
-              <li><a href="team.html">Leyes de discapacidad </a></li>
-            </ul>
-          </li>
-          <li><a href="integracion.php">Integración Educativa</a></li>
-          <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
-          <li><a href="ndestacadas.php">Información Destacada</a></li>
-          <li><a href="contacto.php">Contacto</a></li>
-        </ul>
-      </nav><!-- .nav-menu -->
-
-    </div>
-  </header><!-- End Header -->
-
+  <?php include ('menu.php'); ?>
+  
   <main id="main">
-
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
       <div class="container">
-
         <ol>
           <li><a href="index.php">ARK HO</a></li>
           <li>Institucional</li>
         </ol>
         <h2>Nosotros</h2>
-
       </div>
-    </section><!-- End Breadcrumbs -->
+    </section>
+    <!-- End Breadcrumbs -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
       <div class="container">
-
         <div class="row">
-
           <div class="col-lg-6" >
             <div class="testimonial-item" style="min-height: 350px; text-align: justify;">
               <i class="icofont-eye-alt"></i>
               <span>VISIÓN</span>
               <p>
                 Ser una Institución referente en la Provincia de Córdoba en lo que respecta a los procesos de Inclusión Educativa (antes denominadas Integraciones Escolares) en las escuelas del sistema educativo argentino de  niños, niñas, adolescentes, jóvenes y adultos con discapacidad, realizando un cambio significativo en el desarrollo de la comunidad, procurando educación, valores y bienestar entres sus miembros para  lograr de esta manera una sociedad más inclusiva y equitativa.
-
               </p>
             </div>
           </div>
+
           <div class="col-lg-6">
             <div class="testimonial-item" style=" min-height: 350px; text-align: justify;">
               <i class="icofont-group"></i>
@@ -99,16 +44,13 @@
               </p>
             </div>
           </div>
-
         </div>
-
       </div>
-    </section><!-- End Testimonials Section -->
+    </section>
+    <!-- End Testimonials Section -->
 
-
-  
     <!-- ======= Services Section ======= -->
-    <section id="services mt-6 mt-lg-0" class="services" style="">
+    <section id="services mt-6 mt-lg-0" class="services" style="background: #FFF7F7;">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2>ESPECIALIDADES</h2>
@@ -116,7 +58,7 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box box-psicopeda" style="min-height: 360px">
+            <div class="icon-box box-psicopeda" style="min-height: 360px; background: #fff;">
               <h4><a href="">Psicopedagogía</a></h4>
               <p>Realiza acciones que posibilitan la detección de perturbaciones y/o anomalías en el proceso de aprendizaje.</p>
               <div class="collapse" id="collapsePsicopeda">
@@ -132,8 +74,8 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box box-psicolo" style="min-height: 360px">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" >
+            <div class="icon-box box-psicolo" style="min-height: 360px; background: #fff;">
               <h4><a href="">Psicología</a></h4>
               <p>Asesoramiento y tratamiento a familias de personas en situación de Discapacidad.</p>
               <div class="collapse" id="collapsePsicolo">
@@ -151,7 +93,7 @@
 
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box box-trabsocial" style="min-height: 360px">
+            <div class="icon-box box-trabsocial" style="min-height: 360px; background: #fff;">
               <h4><a href="">Trabajo Social</a></h4>
               <p>Asistencia, orientación y asesoramiento a los distintos sistemas (familia-escuela-instituciones) que participan del proceso de Inclusión Escolar.</p>
               <div class="collapse" id="collapseExample">
@@ -169,7 +111,7 @@
 
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box">
+            <div class="icon-box" style="min-height: 360px; background: #fff;">
               <h4><a href="">Gestión de la educación especial</a></h4>
               <p>Encargada de la supervisión, conducción y coordinación de los servicios que conciernen a los procesos de Inclusión Escolar.</p>
               <div class="collapse" id="collapseGestion">
@@ -187,7 +129,7 @@
 
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box">
+            <div class="icon-box" style="min-height: 360px; background: #fff;">
               <h4><a href="">Fisiatría</a></h4>
               <p>Profesional a cargo de un proceso de  valoración preliminar e integral del paciente.</p>
               <div class="collapse" id="collapseFisiatria">
@@ -204,7 +146,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box">
+            <div class="icon-box" style="min-height: 360px; background: #fff;">
               <h4><a href="">Neuropsicología</a></h4>
               <p>Profesional que diagnostica implementando batería de test neuropsicológicos, a los fines efectuar una descripción profunda de las funciones cerebrales superiores de las personas.</p>
               <div class="collapse" id="collapseNeuro">
@@ -221,7 +163,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 ">
-            <div class="icon-box">
+            <div class="icon-box" style="min-height: 360px; background: #fff;">
               <h4><a href="">Fonoaudiología</a></h4>
               <p>Realiza la valoración, diagnóstico clínico fonoaudiológico, pronóstico y terapéutica en los procesos que perturben el desarrollo de la organización lingüística y su deterioro.</p>
                 <div class="collapse" id="collapseFono">
@@ -238,7 +180,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box">
+            <div class="icon-box" style="min-height: 360px; background: #fff;">
               <h4><a href="">Kinesiología y Fisioterapia</a></h4>
               <p>Ejecuta las prestaciones asistenciales, para la evaluación, prevención, conservación, tratamiento y recuperación de la capacidad física de las personas a través de la Kinefilaxia, Kinesiterapia y la Fisioterapia.</p>
               <div class="collapse" id="collapseKine">
@@ -255,7 +197,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box">
+            <div class="icon-box" style="min-height: 360px; background: #fff;">
               <h4><a href="">Psicomotricidad</a></h4>
               <p>Participa en la elaboración, ejecución, evaluación de planes, programas y acciones pertinentes al área de la psicomotricidad, en el ámbito de la educación de nivel y especial.</p>
               <div class="collapse" id="collapsePsicomo">
@@ -274,26 +216,26 @@
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section>
+    <!-- End Services Section -->
 
     <!-- ======= Our Skills Section ======= -->
-    <section id="skills" class="skills">
+    <section id="skills" class="skills pb-2" >
       <div class="container">
-
         <div class="section-title">
-          <h2>Nuestro Equipo de Trabajo</h2>
+          <h2 style="text-transform: uppercase;">Nuestro Equipo de Trabajo</h2>
           <div class="col-lg-8 col-md-10 col-12 align-self-center" style="margin: auto;">
             <p>Formamos parte de un equipo interdisciplinario que apuesta al trabajo integral y colaborativo en el acompañamiento a cada persona en situación de discapacidad y su familia.</p>
           </div>
           
         </div>
         </div>
-    </section><!-- End Our Skills Section -->
+    </section>
+    <!-- End Our Skills Section -->
 
-    <!--empieza la seccion team-->
-    <section id="team" class="team">
+    <!--seccion team-->
+    <section id="team" class="team pt-2">
       <div class="container">
-
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
@@ -303,7 +245,6 @@
               <p>
                 Especialista en Psicoterapia Familiar. <br>
                 Coordinadora del Área de Psicología Fundación Arkho
-
               </p>
             </div>
           </div>
@@ -531,9 +472,7 @@
         </div> 
       </div>
     </section>
-    <!--termina la seccion team-->
-
-    
+    <!--end seccion team-->
 
   </main><!-- End #main -->
 
@@ -542,22 +481,11 @@
   
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
- <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <?php include ('script.php'); ?>
   <script type="text/javascript">
-
+    $(document).ready(function() {
+      $('#institucional').addClass('active');
+    });
     
     $('#btnPsicopeda').click(function (){
       var that = $(this);
