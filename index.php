@@ -42,10 +42,25 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="#">Home</a></li>
-          <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="inclusion.php">Inclusión escolar</a></li>
-          <li><a href="preguntas.php">Preguntas frecuentes</a></li>
-          <li><a href="ndestacadas.php">Información destacada</a></li>
+          <li class="drop-down"><a href="#">Institucional</a>
+            <ul>
+              <li><a href="nosotros.php">Nosotros</a></li>
+              <li><a href="team.html">Estatuto</a></li>
+              <li><a href="team.html">Leyes de discapacidad </a></li>
+              <!--<li class="drop-down"><a href="#">Drop Down 2</a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>-->
+            </ul>
+          </li>
+          <li><a href="inclusion.php">Inclusión Educativa</a></li>
+          <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
+          <li><a href="ndestacadas.php">Información Destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
 
         </ul>
@@ -68,7 +83,7 @@
           <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpeg) no-repeat center fixed; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animated fadeInDown">¡BIENVE<span>NIDOS!</span></h2>
+                <h2 class="animated fadeInDown"><span>¡BIENVENIDOS!</span></h2>
                 <p class="animated fadeInUp">Los invitamos a conocernos. Nuestra apuesta: construir un mundo más real, empático  e inclusivo.
 </p>
                 <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
@@ -127,20 +142,11 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content">
-            <h3>¿Quienes somos?</h3>
-            <p class="font-italic" style="text-align: justify;">
-              Nuestra Fundación nace en un inicio con la inquietud de acompañar de manera colaborativa a las personas en situación de discapacidad en el trayecto de su vida. Si bien en un primer momento nos ocupaba la escolaridad, nunca dejamos de considerar y ver a las personas en todos los aspectos del ciclo vital. Por ello, así como la escolaridad es una preocupación nuestra y de las familias,   hemos aprendido que los niños se convierten en jóvenes y los jóvenes en adultos, y que los aprendizajes formales son  fundamentales como así también lo es la inclusión en todos los aspectos de la sociedad.  <br>Trabajar para conseguir  la autonomía es un desafío familiar, institucional y social. Defender el respeto de  los derechos  a una vida digna, integral, con ciudadanos partícipes en las decisiones de la comunidad es otro tema que nos convoca e interesa.Emprendemos una labor conjunta entre familias, instituciones, sociedad y Fundación ARK HO, para que los estereotipos y  preconceptos dejen de ser negativos, donde las barreras  sean cada vez menores  para de esta manera construir una sociedad más inclusiva y respetuosa de las diferencias. 
+            <h2 style="color: #D68831"><b>¿Quienes somos?</b></h2>
+            <p class="font-italic" style="text-align: justify; font-size: 15px;">
+              Nuestra Fundación nace en un inicio con la inquietud de acompañar de manera colaborativa a las personas en situación de discapacidad en el trayecto de su vida. Si bien en un primer momento nos ocupaba la escolaridad, nunca dejamos de considerar y ver a las personas en todos los aspectos del ciclo vital. Por ello, así como la escolaridad es una preocupación nuestra y de las familias, hemos aprendido que los niños se convierten en jóvenes y los jóvenes en adultos, y que los aprendizajes formales son fundamentales como así también lo es la inclusión en todos los aspectos de la sociedad.  
+              <br>Trabajar para conseguir la autonomía es un desafío familiar, institucional y social. Defender el respeto de  los derechos a una vida digna, integral, con ciudadanos partícipes en las decisiones de la comunidad es otro tema que nos convoca e interesa.Emprendemos una labor conjunta entre familias, instituciones, sociedad y <b>Fundación ARK HO</b>, para que los estereotipos y  preconceptos dejen de ser negativos, donde las barreras  sean cada vez menores para de esta manera construir una sociedad más inclusiva y respetuosa de las diferencias. 
             </p>
-            <!--<ul>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>-->
           </div>
         </div>
 
@@ -152,10 +158,10 @@
 
           <div class="row">      
             <div class="col-lg-6 pt-4 pt-lg-0 content order-2 order-lg-1">
-              <h3>¿Qué es la discapcidad?</h3>
-              <p class="font-italic" style="text-align: justify;">
-                Según la OMS (Organización Mundial de la Salud), la Discapacidad es un término general que abarca las deficiencias, las limitaciones de la actividad y las restricciones de la participación. Las deficiencias son problemas que afectan a una estructura o función corporal; las limitaciones de la actividad son dificultades para ejecutar acciones o tareas, y las restricciones de la participación son problemas para participar en situaciones vitales. Por consiguiente, la discapacidad es un fenómeno complejo que refleja una interacción entre las características del organismo humano y las características de la sociedad en la que vive. <br>
-Las personas con altas capacidades presentan un nivel de rendimiento intelectual superior en una amplia gama de aptitudes y capacidades aprendiendo con facilidad cualquier área o materia.
+              <h2 style="color: #D68831"><b>¿Qué es la discapcidad?</b></h2>
+              <p class="font-italic" style="text-align: justify; font-size: 15px;">
+                Según la OMS (Organización Mundial de la Salud), la Discapacidad es un término general que abarca las deficiencias, las limitaciones de la actividad y las restricciones de la participación. Las deficiencias son problemas que afectan a una estructura o función corporal; las limitaciones de la actividad son dificultades para ejecutar acciones o tareas, y las restricciones de la participación son problemas para participar en situaciones vitales. Por consiguiente, la discapacidad es un fenómeno complejo que refleja una interacción entre las características del organismo humano y las características de la sociedad en la que vive. 
+                <br>Las personas con altas capacidades presentan un nivel de rendimiento intelectual superior en una amplia gama de aptitudes y capacidades aprendiendo con facilidad cualquier área o materia.
 
               </p>
               
@@ -260,23 +266,23 @@ Las personas con altas capacidades presentan un nivel de rendimiento intelectual
         </div>
 
         <div class="row justify-content-center IM2020">
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3">
+          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
               <a href="https://www.facebook.com/fundacion.arkho" target="_blank"><i class="fab fa-facebook-f"></i></a>
           </div>
 
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3">
+          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
             <a href="https://www.youtube.com/channel/UC2UHuvShGVYOzp4Pct3yDww/?guided_help_flow=5" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a>
           </div>
 
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3">
+          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
             <a href="https://api.whatsapp.com/send?phone=+54 3512333551" target="_blank"><i class="fab fa-whatsapp"></i></a>
           </div>
 
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3">
+          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
             <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
           </div>
 
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3">
+          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
             <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
           </div>
  
