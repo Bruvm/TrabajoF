@@ -40,12 +40,17 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li><a href="index.php">Home</a></li>
-          <li class="active"><a href="#">Nosotros</a></li>
-          <li><a href="inclusion.php">Inclusión Escolar</a></li>
+          <li class="drop-down active"><a href="#">Institucional</a>
+            <ul>
+              <li><a href="nosotros.php">Nosotros</a></li>
+              <li><a href="team.html">Estatuto</a></li>
+              <li><a href="team.html">Leyes de discapacidad </a></li>
+            </ul>
+          </li>
+          <li><a href="inclusion.php">Inclusión Educativa</a></li>
           <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
           <li><a href="ndestacadas.php">Información Destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
-
         </ul>
       </nav><!-- .nav-menu -->
 
@@ -60,7 +65,7 @@
 
         <ol>
           <li><a href="index.php">ARK HO</a></li>
-          <li>Nosotros</li>
+          <li>Institucional</li>
         </ol>
         <h2>Nosotros</h2>
 
@@ -74,7 +79,7 @@
         <div class="row">
 
           <div class="col-lg-6" >
-            <div class="testimonial-item" style=" height: 300px; text-align: justify;">
+            <div class="testimonial-item" style="min-height: 300px; text-align: justify;">
               <i class="icofont-eye-alt"></i>
               <span>VISIÓN</span>
               <p>
@@ -85,7 +90,7 @@
           </div>
 
           <div class="d-none d-block-md col-lg-6">
-            <div class="testimonial-item mt-4 mt-lg-0" style=" height: 300px; text-align: justify;">
+            <div class="testimonial-item mt-lg-0" style=" min-height: 300px; text-align: justify;">
 <i class="icofont-group"></i>
               <span>MISIÓN</span>
               <p>
@@ -291,7 +296,10 @@
 
         <div class="section-title">
           <h2>Nuestro Equipo de Trabajo</h2>
-          <p>Formamos parte de un equipo interdisciplinario que apuesta al trabajo integral y colaborativo en el acompañamiento a cada persona en situación de discapacidad y su familia.</p>
+          <div class="col-lg-8 col-md-10 col-12 align-self-center" style="margin: auto;">
+            <p>Formamos parte de un equipo interdisciplinario que apuesta al trabajo integral y colaborativo en el acompañamiento a cada persona en situación de discapacidad y su familia.</p>
+          </div>
+          
         </div>
         </div>
     </section><!-- End Our Skills Section -->
@@ -552,6 +560,7 @@
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
   <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
