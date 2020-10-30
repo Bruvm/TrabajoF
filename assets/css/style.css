@@ -556,7 +556,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 0 0 80px 0;
+  padding: 60px 0 60px 0;
 }
 
 .section-bg {
@@ -1490,7 +1490,7 @@ section {
   margin-bottom: 0;
 }
 
-.contact .php-email-form {
+.contact .form{
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
   padding: 30px;
 }
@@ -1541,25 +1541,25 @@ section {
   animation: animate-loading 1s linear infinite;
 }
 
-.contact .php-email-form input, .contact .php-email-form textarea {
+.contact .form input, .contact .form textarea {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
 }
 
-.contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
+.contact .form input::focus, .contact .form textarea::focus {
   background-color: #D68831;
 }
 
-.contact .php-email-form input {
+.contact .form input {
   padding: 20px 15px;
 }
 
-.contact .php-email-form textarea {
+.contact .form textarea {
   padding: 12px 15px;
 }
 
-.contact .php-email-form button[type="submit"] {
+.contact .form input[type="submit"] {
   background: #D68831;
   border: 0;
   border-radius: 50px;
@@ -1568,15 +1568,10 @@ section {
   transition: 0.4s;
 }
 
-.contact .php-email-form button[type="submit"]:hover {
-<<<<<<< HEAD
-  background: #e6573f;
-  opacity: 0.8;
-=======
+.contact .form input[type="submit"]:hover {
+
   background: #D68831;
   opacity: 0.8;
-}
->>>>>>> c3e56afba6f48da99ef37ecc0c3e5d11d59cffc8
 }
 
 @-webkit-keyframes animate-loading {
@@ -2162,8 +2157,8 @@ section {
 # F.A.Q
 --------------------------------------------------------------*/
 .faq .faq-item {
-  margin: 20px 0;
-  padding: 20px 0;
+  margin: 0 0;
+  padding: 40px 0;
   border-bottom: 1px solid #eeeeee;
 }
 
