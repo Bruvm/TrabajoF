@@ -188,27 +188,27 @@
           <h2>Contacto</h2>
         </div>
 
-        <div class="row justify-content-center IM2020">
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
+        <div class="row justify-content-between IM2020">
+            <div class="text-center float-left">
               <a href="https://www.facebook.com/fundacion.arkho" target="_blank"><i class="fab fa-facebook-f"></i></a>
-          </div>
+            </div>
 
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
-            <a href="https://www.youtube.com/channel/UC2UHuvShGVYOzp4Pct3yDww/?guided_help_flow=5" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a>
-          </div>
+            <div class="text-center float-left">
+              <a href="https://www.youtube.com/channel/UC2UHuvShGVYOzp4Pct3yDww/?guided_help_flow=5" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a>
+            </div>
 
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
-            <a href="https://api.whatsapp.com/send?phone=+54 3512333551" target="_blank"><i class="fab fa-whatsapp"></i></a>
-          </div>
+            <div class="text-center float-left">
+              <a href="https://api.whatsapp.com/send?phone=+54 3512333551" target="_blank"><i class="fab fa-whatsapp"></i></a>
+            </div>
 
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
-            <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
-          </div>
+            <div class=" text-center float-left">
+              <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+            </div>
 
-          <div class="col-md-2 col-3 mr-md-0 mr-5 mb-md-0 mb-3 text-center">
-            <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
-          </div>
- 
+            <div class="text-center float-left">
+              <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
+            </div>
+          
        </div>
 
 
