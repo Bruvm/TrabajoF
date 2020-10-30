@@ -44,9 +44,9 @@
         <ul>
           <li class="active"><a href="index.html">Home</a></li>
           <li><a href="#">Nosotros</a></li>
-          <li><a href="#">Inclusión escolar</a></li>
-          <li><a href="#">Preguntas frecuentes</a></li>
-          <li><a href="#">Información destacada</a></li>
+          <li><a href="#">Inclusión Educativa</a></li>
+          <li><a href="#">Preguntas Frecuentes</a></li>
+          <li><a href="#">Información Destacada</a></li>
           <li><a href="#">Contacto</a></li>
 
         </ul>
@@ -59,7 +59,6 @@
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
   <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
