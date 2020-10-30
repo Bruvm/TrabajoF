@@ -1,63 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>INCLUSIÓN EDUCATIVA | Fundación Ark Ho</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
-
-  <!--link de los social media en la parte de abajo de la pagina-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-</head>
+<?php include ('head.php'); ?>
 
 <body>
   <?php include ('conexion.php'); ?>
-  <header id="header">
-    <div class="container d-flex">
-
-      <div class="logo mr-auto">
-        <a href="index.php"><img src="assets/img/menu/logo.png" alt="" class="img-fluid"></a>
-      </div>
-
-      <nav class="nav-menu d-none d-lg-block">
-        <ul>
-          <li><a href="index.php">Home</a></li>
-          <li class="drop-down"><a href="#">Institucional</a>
-            <ul>
-              <li><a href="nosotros.php">Nosotros</a></li>
-              <li><a href="team.html">Estatuto</a></li>
-              <li><a href="team.html">Leyes de discapacidad </a></li>
-            </ul>
-          </li>
-          <li class="active"><a href="#">Integración Educativa</a></li>
-          <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
-          <li><a href="ndestacadas.php">Información Destacada</a></li>
-          <li><a href="contacto.php">Contacto</a></li>
-        </ul>
-      </nav><!-- .nav-menu -->
-
-    </div>
-  </header><!-- End Header -->
+  <?php include ('menu.php'); ?>
   
   <main id="main">
     <!-- ======= Breadcrumbs ======= -->
@@ -168,51 +115,53 @@
 
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
+    <section id="clients" class="clients" style="background: #FFF7F7;">
       <div class="container">
-
-        <div class="section-title" style="margin-bottom: 35px;">
-          <h2>¿A quién va dirigido?</h2>
+        <div class="section-title pb-0">
+          <h2 style="text-transform: uppercase;">¿A quién va dirigido?</h2>
           <p>Los procesos de Inclusión Escolar van dirigidos tanto a Personas con Discapacidad como a personas con Altas Capacidades en todas las modalidades que presenta el sistema educativo argentino: nivel inicial, primario, secundario, superior no universitario y/o universitario.  Incluyendo en dicha modalidad la Educación Hospitalaria. 
-          Además se han realizado procesos de inclusión en instituciones de educación no formal como guarderías, jardines maternales, grupos de scouts, etc.
-        </p>
+          Además se han realizado procesos de inclusión en instituciones de educación no formal como guarderías, jardines maternales, grupos de scouts, etc.</p>
         </div>
-
-        <div class="section-title" style="margin-bottom: 35px;">
-          <h2>Tipo de Prestación</h2>
-          <p>Atención individualizada en escuela de nivel, institución terciaria y/o universitaria, consultorio y/o domicilio en forma simultánea y/o sucesiva según corresponda tanto con el estudiante como con los docentes. En caso de ser necesaria una intervención a nivel institucional, se puede realizar al igual que capacitaciones y/o asesoramiento institucional.
-        </p>
-        </div>
-
-        <div class="section-title">
-          <h2>Frecuencia de Atención</h2>
-          <p>El servicio podrá brindarse por módulos de un mínimo de 8 horas semanales o bien por hora de apoyo en caso de requerir menos de 8 horas semanales. En todos los casos, la cantidad de horas dependerá del proyecto individual e incluirá la atención individual, familiar y coordinación del equipo técnico profesional.
-        </p>
-        </div>
-        </div>-->
-
       </div>
     </section>
-    
+    <!-- ======= end ======= -->
+
+    <!-- ======= start 2 ======= -->
+    <section id="clients" class="clients">
+      <div class="container">
+        <div class="section-title pb-0">
+          <h2 style="text-transform: uppercase;">Tipo de Prestación</h2>
+          <p>Atención individualizada en escuela de nivel, institución terciaria y/o universitaria, consultorio y/o domicilio en forma simultánea y/o sucesiva según corresponda tanto con el estudiante como con los docentes. En caso de ser necesaria una intervención a nivel institucional, se puede realizar al igual que capacitaciones y/o asesoramiento institucional.</p>
+        </div>
+      </div>
+    </section>
+    <!-- ======= end ======= -->
+
+    <!-- ======= start 3 ======= -->
+    <section id="clients" class="clients" style="background: #FFF7F7;">
+      <div class="container">
+        <div class="section-title">
+          <h2 style="text-transform: uppercase;">Frecuencia de Atención</h2>
+          <p>El servicio podrá brindarse por módulos de un mínimo de 8 horas semanales o bien por hora de apoyo en caso de requerir menos de 8 horas semanales. En todos los casos, la cantidad de horas dependerá del proyecto individual e incluirá la atención individual, familiar y coordinación del equipo técnico profesional.</p>
+        </div>
+        </div>
+      </div>
+    </section>
+    <!-- ======= end ======= -->
 
   </main><!-- End #main -->
 
   <?php include ('footer.php'); ?>
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <?php include ('script.php'); ?>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#integracion').addClass('active');
+    });
+    
+  </script>
 
 </body>
 </html>
