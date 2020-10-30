@@ -1,66 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>INICIO | Fundación Ark Ho</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
-
-  <!--link de los social media en la parte de abajo de la pagina-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-</head>
+<?php include ('head.php'); ?>
 
 <body>
 <?php include ('conexion.php'); ?>
-  <header id="header">
-    <div class="container d-flex">
-
-      <div class="logo mr-auto">
-        <a href="index.php"><img src="assets/img/menu/logo.png" alt="" class="img-fluid"></a>
-      </div>
-
-      <nav class="nav-menu d-none d-lg-block">
-        <ul>
-          <li class="active"><a href="#">Home</a></li>
-          <li class="drop-down"><a href="#">Institucional</a>
-            <ul>
-              <li><a href="nosotros.php">Nosotros</a></li>
-              <li><a href="team.html">Estatuto</a></li>
-              <li><a href="team.html">Leyes de discapacidad </a></li>
-            </ul>
-          </li>
-          <li><a href="integracion.php">Integración Educativa</a></li>
-          <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
-          <li><a href="ndestacadas.php">Información Destacada</a></li>
-          <li><a href="contacto.php">Contacto</a></li>
-
-        </ul>
-      </nav><!-- .nav-menu -->
-
-    </div>
-  </header><!-- End Header -->
+<?php include ('menu.php'); ?>
   
-
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
@@ -75,8 +20,7 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animated fadeInDown"><span>¡BIENVENIDOS!</span></h2>
-                <p class="animated fadeInUp">Los invitamos a conocernos. Nuestra apuesta: construir un mundo más real, empático  e inclusivo.
-</p>
+                <p class="animated fadeInUp">Los invitamos a conocernos. Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
                 <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
@@ -118,16 +62,12 @@
 
       </div>
     </div>
-  </section><!-- End Hero -->
-
+  </section>
+  <!-- End Hero -->
   <main id="main">
-
-    
-
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container">
-
         <div class="row">
           <div class="col-lg-6">
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
@@ -140,43 +80,35 @@
             </p>
           </div>
         </div>
-
       </div>
     </section>
 
     <section id="about" class="about">
         <div class="container">
-
           <div class="row">      
             <div class="col-lg-6 pt-4 pt-lg-0 content order-2 order-lg-1">
               <h2 style="color: #D68831"><b>¿Qué es la discapcidad?</b></h2>
               <p class="font-italic" style="text-align: justify; font-size: 15px;">
                 Según la OMS (Organización Mundial de la Salud), la Discapacidad es un término general que abarca las deficiencias, las limitaciones de la actividad y las restricciones de la participación. Las deficiencias son problemas que afectan a una estructura o función corporal; las limitaciones de la actividad son dificultades para ejecutar acciones o tareas, y las restricciones de la participación son problemas para participar en situaciones vitales. Por consiguiente, la discapacidad es un fenómeno complejo que refleja una interacción entre las características del organismo humano y las características de la sociedad en la que vive. 
                 <br>Las personas con altas capacidades presentan un nivel de rendimiento intelectual superior en una amplia gama de aptitudes y capacidades aprendiendo con facilidad cualquier área o materia.
-
               </p>
-              
             </div>
             <div class="col-lg-6 order-1 order-lg-2">
               <img src="assets/img/about.jpg" class="img-fluid" alt="">
             </div>
           </div>
-
         </div>
-      </section>
-
-    <!-- End About Section -->
+    </section>
+    <!-- End About -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
-
         <div class="section-title" data-aos="fade-up">
           <h2>ESPECIALIDADES</h2>
         </div>
 
         <div class="row">
-
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
               <h4><a href="nosotros.php">Psicopedagogía</a></h4>
@@ -230,8 +162,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="nosotros.php">Kinesiología y Fisioterapia</a></h4>
-              <p>Ejecuta las prestaciones asistenciales, para la evaluación, prevención, conservación, tratamiento y recuperación de la capacidad física de las personas a través de la Kinefilaxia, Kinesiterapia y la Fisioterapia.
-</p>
+              <p>Ejecuta las prestaciones asistenciales, para la evaluación, prevención, conservación, tratamiento y recuperación de la capacidad física de las personas a través de la Kinefilaxia, Kinesiterapia y la Fisioterapia.</p>
             </div>
           </div>
 
@@ -246,7 +177,8 @@
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section>
+    <!-- End Services Section -->
 
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
@@ -286,39 +218,22 @@
   </main><!-- End #main -->
 
 
-<!-- FORMULARIO DOPPLER -->
-
-<script src="https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?74952563"></script>
-
-<link rel="stylesheet" href="https://cdn.fromdoppler.com/formgenerator/latest/styles.css?74952563">
-
-
-
-<!-- insert this in body -->
-
-<script id="formRender" type="text/javascript">$jqf().ready(function () { renderForm("4GvMSL2KByc04kSMvxcNJQ%3D%3D", "637274038832668815") });</script>
-
+  <!-- FORMULARIO DOPPLER -->
+  <script src="https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?74952563"></script>
+  <link rel="stylesheet" href="https://cdn.fromdoppler.com/formgenerator/latest/styles.css?74952563">
+  <script id="formRender" type="text/javascript">$jqf().ready(function () { renderForm("4GvMSL2KByc04kSMvxcNJQ%3D%3D", "637274038832668815") });</script>
 
   <!-- ======= Footer ======= -->
   <?php include ('footer.php'); ?>
   
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
- <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
+  <?php include ('script.php'); ?>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#home').addClass('active');
+    });
+    
+  </script>
 </body>
-
 </html>
