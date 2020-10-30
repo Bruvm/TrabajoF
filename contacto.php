@@ -1,60 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>CONTACTO | Fundación Ark Ho </title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
-
-  <!--link de los social media en la parte de abajo de la pagina-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-</head>
-
+<?php include ('head.php'); ?>
 <body>
   <?php include ('conexion.php'); ?>
-  <header id="header">
-    <div class="container d-flex">
-
-      <div class="logo mr-auto">
-        <a href="index.php"><img src="assets/img/menu/logo.png" alt="" class="img-fluid"></a>
-      </div>
-
-      <nav class="nav-menu d-none d-lg-block">
-        <ul>
-          <li><a href="index.php">Home</a></li>
-          <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="inclusion.php">Inclusión Educativa</a></li>
-          <li><a href="preguntas.php">Preguntas frecuentes</a></li>
-          <li><a href="ndestacadas.php">Información Destacada</a></li>
-          <li class="active"><a href="#">Contacto</a></li>
-
-        </ul>
-      </nav><!-- .nav-menu -->
-
-    </div>
-  </header><!-- End Header -->
+  <?php include ('menu.php'); ?>
   <main id="main">
-
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
       <div class="container">
@@ -107,27 +57,32 @@
           </div>
 
           <div class="col-lg-6">
+
             <form id="form" class="form" action="forms/contact.php" method="POST">
+
               <div class="form-row">
                 <div class="col form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Nombre y apellido" required="" />
+                  <small>Error message</small>
                 </div>
                 <div class="col form-group">
                   <input type="email" class="form-control" name="email" id="email" placeholder="E-mail" required=""/>
                 </div>
+                <small>Error message</small>
               </div>
               <div class="form-group">
                 <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" required="" />
-                <div class="validate"></div>
+                <small>Error message</small>
               </div>
               <div class="form-group">
                 <textarea class="form-control" name="message" id="message" rows="5" required="" ></textarea>
+                <small>Error message</small>
               </div>
                <div class="text-center">
                 <input id="submit_buttom" name="enviar" type="submit" value='Enviar'>
               </div>
-              <div class="col-12" id="contentResult" style="height: 80px; background: #1acc8d">
-                <p id="resultado"></p>
+              <div class="col-12" id="contentResult" >
+                <p id="resultado" style="padding-top: 25px; padding-bottom: 25px; margin: 0; text-align: center;"></p>
               </div>
             </form>
           </div>
@@ -172,19 +127,13 @@
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <?php include ('script.php'); ?>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#contacto').addClass('active');
+    });
+  </script>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
+  <?php include ('forms/contact.php'); ?>
 </body>
 </html>
