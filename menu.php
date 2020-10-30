@@ -11,11 +11,12 @@
           <li class="drop-down" id="institucional"><a href="#">Institucional</a>
             <ul>
               <li><a href="nosotros.php">Nosotros</a></li>
-              <li><a href="team.html">Estatuto</a></li>
+              <li><a href="https://drive.google.com/file/d/1u1aNmmMnaX0hifV2YdYAdPhaEL5m6S_6/view?usp=sharing">Estatuto</a></li>
               	<li class="drop-down"><a href="#">Leyes de discapacidad </a>
               		<ul>
-             			 <li><a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47677/norma.htm">Ley N° 24.901</a></li>
+             			 
               			 <li><a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20620/texact.htm">Ley N° 22.431 </a></li>
+              			 <li><a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47677/norma.htm">Ley N° 24.901</a></li>
                 	</ul>
             	</li>
             </ul>
