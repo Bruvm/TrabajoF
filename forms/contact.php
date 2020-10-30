@@ -6,16 +6,16 @@ $mail = new PHPMailer();
 
 $mail->IsSMTP();                                      // set mailer to
 
-$mail->Host = "mail.metrolink.com.ar";  // specify main and backup server
+$mail->Host = 'no-reply@tuusuario.ferozo.com';  // specify main and backup server
 $mail->SMTPAuth = true;     // turn on SMTP authentication
-$mail->Username = "melibruvera@hotmail.com";  // SMTP username
-$mail->Password = "homero19"; // SMTP password
+$mail->Username = 'melibruvera@hotmail.com.ar';  // SMTP username
+$mail->Password = 'homero19'; // SMTP password
 
-$mail->From = "melibruvera@hotmail.com";
-$mail->FromName = "Contacto desde Web [".$email."]";        // remitente
-$mail->AddAddress("melibruvera@hotmail.com", "destinatario");        // destinatario
+$mail->From = 'prueba@metrolink.com.ar';
+$mail->FromName = 'Contacto desde Web';        // remitente
+$mail->AddAddress('melibruvera@hotmail.com.ar', 'destinatario');        // destinatario
 
-$mail->AddReplyTo("melibruvera@hotmail.com", "respuesta a");    // responder a
+$mail->AddReplyTo('melibruvera@hotmail.com.ar', 'respuesta a');    // responder a
 
 $mail->WordWrap = 50;     // set word wrap to 50 characters
 $mail->IsHTML(true);     // set email
@@ -23,32 +23,25 @@ $mail->IsHTML(true);     // set email
 
 $nombre = $_POST['name'];
 $email = $_POST['email'];
-$subject = $_POST['subject'];
-$message = $_POST['message'];
+$asunto = $_POST['subject'];
+$mensaje = $_POST['message'];
 
-
-$cuerpoEmail="Nombre: " .$nombre;
+$cuerpoEmail='Nombre: ' .$nombre;
 $cuerpoEmail.="<br>Email: " .$email;
-$cuerpoEmail.="<br>Asunto: " .$subject;
-$cuerpoEmail.="<br>Mensaje: " .$message ;
+$cuerpoEmail.="<br>Asunto: " .$asunto;
+$cuerpoEmail.="<br>Mensaje: " .$mensaje;
 
-
-
-$mail->Subject = $subject;
+$mail->Subject = 'Mensaje enviado desde la web';
 $mail->Body    = $cuerpoEmail;
 $mail->AltBody = $cuerpoEmail;
 if(!$mail->Send())
 {
-   echo "Hubo un error, vuelva a intentar";
-   echo "Mailer Error: " . $mail->ErrorInfo;
+   echo 'Hubo un error, vuelva a intentar';
+   echo 'Mailer Error: ' . $mail->ErrorInfo;
    exit;
 }else{
-  echo "se envio";
+	echo 'Su mensaje fue enviado correctamente. En breve nos comunicaremos contigo.';
 }
-//header("location:../contacto.html");
-//echo "El formulario fue enviado";
-//if("location:../contacto.html"){
 
-//}
 
 ?> 
