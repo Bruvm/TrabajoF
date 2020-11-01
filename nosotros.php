@@ -251,6 +251,72 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
+              <img src="assets/img/team/noe.jpg" alt="">
+              <h4>Noelia Gordillo Alfaro</h4>
+              <span>Lic. en Fonoaudiología. MP 7412</span>
+              <p>
+                Coordinadora del Área de Fonoaudiología Fundación Arkho
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/martin.jpg" alt="">
+              <h4>Martín Cipollone</h4>
+              <span>Profesor en Psicopedagogía y Psicopedagogo. MP 13-1779</span>
+              <p>
+                Especialista Superior en Educación y TIC <br>
+                CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia)<br>
+                Lic. en Educación Especial con Orientación en Integración e Inclusión Educativa (UNdeC)<br>
+                Licenciando en Psicopedagogía (UCC)<br>
+                Doctorando en Educación (UCC)<br>
+                Coordinador del Área de Psicopedagogía Fundación Arkho
+
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/marcelacarta.jpg" alt="">
+              <h4>Claudia Marcela Carta</h4>
+              <span>Lic. y Prof. en Psicomotricidad. MP 9392</span>
+              <p>
+                CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia) <br>
+                Coordinadora del Área de Psicomotricidad Fundación Arkho
+
+              </p>
+            </div>
+          </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/vero.jpg" alt="">
+              <h4>Verónica Romanini</h4>
+              <span>Lic. en Kinesiología y Fisioterapia. MP 2992</span>
+              <p>
+                Terapista Castillo Morales <br>
+                Intervención Temprana <br>
+                Coordinadora del Área de Kinesiología Fundación Arkho <br>
+
+              </p>
+            </div>
+          </div>
+
+           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/mati.jpg" alt="">
+              <h4>Matias Sotomayor</h4>
+              <span>Lic. en Psicomotricidad. MP 12786</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>    
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
               <img src="assets/img/team/vane.jpg" alt="">
               <h4>Vanesa Beatriz Arévalo</h4>
               <span>Lic. en Psicología. MP 7247</span>
@@ -271,18 +337,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/marcelacarta.jpg" alt="">
-              <h4>Claudia Marcela Carta</h4>
-              <span>Lic. y Prof. en Psicomotricidad. MP 9392</span>
-              <p>
-                CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia) <br>
-                Coordinadora del Área de Psicomotricidad Fundación Arkho
-
-              </p>
-            </div>
-          </div>
+          
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
@@ -295,16 +350,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/mati.jpg" alt="">
-              <h4>Matias Sotomayor</h4>
-              <span>Lic. en Psicomotricidad. MP 12786</span>
-              <!--<p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-              </p>-->
-            </div>
-          </div>     
+          
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
@@ -318,22 +364,7 @@
           </div>
                   
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/martin.jpg" alt="">
-              <h4>Martín Cipollone</h4>
-              <span>Profesor en Psicopedagogía y Psicopedagogo. MP 13-1779</span>
-              <p>
-                Especialista Superior en Educación y TIC <br>
-                CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia)<br>
-                Lic. en Educación Especial con Orientación en Integración e Inclusión Educativa (UNdeC)<br>
-                Licenciando en Psicopedagogía (UCC)<br>
-                Doctorando en Educación (UCC)<br>
-                Coordinador del Área de Psicopedagogía Fundación Arkho
-
-              </p>
-            </div>
-          </div>
+          
           
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
@@ -360,19 +391,7 @@
           </div>
 
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/vero.jpg" alt="">
-              <h4>Verónica Romanini</h4>
-              <span>Lic. en Kinesiología y Fisioterapia. MP 2992</span>
-              <p>
-                Terapista Castillo Morales <br>
-                Intervención Temprana <br>
-                Coordinadora del Área de Kinesiología Fundación Arkho <br>
-
-              </p>
-            </div>
-          </div>
+        
 
                  
 
@@ -411,6 +430,8 @@
           </div>
 
 
+
+
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/team-3.jpg" alt="">
@@ -433,16 +454,7 @@
             </div>
           </div>
 
-           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>Noelia Gordillo Alfaro</h4>
-              <span>Lic. en Fonoaudiología. MP 7412</span>
-              <p>
-                Coordinadora del Área de Fonoaudiología Fundación Arkho
-              </p>
-            </div>
-          </div>
+           
 
 
         </div> 
