@@ -16,7 +16,7 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpeg) no-repeat center fixed; background-size: cover;">
+          <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg) no-repeat center fixed; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animated fadeInDown"><span>¡BIENVENIDOS!</span></h2>
@@ -94,7 +94,7 @@
               </p>
             </div>
             <div class="col-lg-6 order-1 order-lg-2">
-              <img src="assets/img/about.jpg" class="img-fluid" alt="">
+              <img src="assets/img/about1.jpg" class="img-fluid" alt="">
             </div>
           </div>
         </div>
