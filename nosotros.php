@@ -239,7 +239,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" alt="">
+              <img src="assets/img/team/belen.jpg" alt="">
               <h4>Maria Belén Frias</h4>
               <span>Lic. en Psicología. MP 6047</span>
               <p>
@@ -251,7 +251,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
+              <img src="assets/img/team/vane.jpg" alt="">
               <h4>Vanesa Beatriz Arévalo</h4>
               <span>Lic. en Psicología. MP 7247</span>
               <!--<p>
@@ -262,7 +262,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/consuelo.jpg" alt="">
               <h4>Consuelo Verónica Fa</h4>
               <span>Lic. en Psicología. MP 7304</span>
               <!--<p>
@@ -273,7 +273,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" alt="">
+              <img src="assets/img/team/marcelacarta.jpg" alt="">
               <h4>Claudia Marcela Carta</h4>
               <span>Lic. y Prof. en Psicomotricidad. MP 9392</span>
               <p>
@@ -286,7 +286,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
+              <img src="assets/img/team/natividad.jpg" alt="">
               <h4>Natividad Castellani</h4>
               <span>Lic. y Prof. en Psicomotricidad. MP 10203</span>
               <p>
@@ -297,31 +297,18 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/mati.jpg" alt="">
               <h4>Matias Sotomayor</h4>
               <span>Lic. en Psicomotricidad. MP 12786</span>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
             </div>
-          </div>
+          </div>     
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>Matias Sotomayor</h4>
-              <span>Lic. en Psicomotricidad. MP 12786</span>
-              <!--<p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-              </p>-->
-            </div>
-          </div>
-
-      
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/maca.jpg" alt="">
               <h4>Macarena Arias</h4>
               <span>Lic. en Psicomotricidad. MP 14387</span>
               <!--<p>
@@ -329,23 +316,11 @@
               </p>-->
             </div>
           </div>
-          
+                  
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>Leticia Mendez</h4>
-              <span>Lic. en Psicomotricidad. MP 13581</span>
-              <!--<p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-              </p>-->
-            </div>
-          </div>
-          
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/martin.jpg" alt="">
               <h4>Martín Cipollone</h4>
               <span>Profesor en Psicopedagogía y Psicopedagogo. MP 13-1779</span>
               <p>
@@ -363,7 +338,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/giselle.jpg" alt="">
               <h4>Giselle Belén Maccario</h4>
               <span>Lic. en Psicopedagogía. MP P-12-4112</span>
               <!--<p>
@@ -375,7 +350,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/gabriela.jpg" alt="">
               <h4>Gabriela del V. Córdoba</h4>
               <span>Lic. en Psicopedagogía. MP P-12-5164</span>
               <!--<p>
@@ -383,23 +358,11 @@
               </p>-->
             </div>
           </div>
-          
+
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>Antonella Pini</h4>
-              <span>Lic. en Psicopedagogía. MP 124113</span>
-              <!--<p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-              </p>-->
-            </div>
-          </div>
-          
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/vero.jpg" alt="">
               <h4>Verónica Romanini</h4>
               <span>Lic. en Kinesiología y Fisioterapia. MP 2992</span>
               <p>
@@ -411,33 +374,12 @@
             </div>
           </div>
 
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>Juan Manuel Sarinski</h4>
-              <span>Lic. en Kinesiología y Fisioterapia. MP 7866</span>
-              <!--<p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-              </p>-->
-            </div>
-          </div>
-
-                  <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>Noelia Gordillo Alfaro</h4>
-              <span>Lic. en Fonoaudiología. MP 7412</span>
-              <p>
-                Coordinadora del Área de Fonoaudiología Fundación Arkho
-              </p>
-            </div>
-          </div>
+                 
 
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/natalia.jpg" alt="">
               <h4>Natalia Glorioso</h4>
               <span>Lic. en Fonoaudiología. MP 8865</span>
               <!--<p>
@@ -448,7 +390,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/veroagner.jpg" alt="">
               <h4>Verónica Agner</h4>
               <span>Lic. en Gestión de Educación Especial MP A-8968</span>
               <p>
@@ -459,12 +401,46 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/eliana.jpg" alt="">
               <h4>Eliana Bustos</h4>
               <span>Lic. en Trabajo Social. MP 1584</span>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Antonella Pini</h4>
+              <span>Lic. en Psicopedagogía. MP 124113</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+
+           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Leticia Mendez</h4>
+              <span>Lic. en Psicomotricidad. MP 13581</span>
+              <!--<p>
+                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>-->
+            </div>
+          </div>
+
+           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpg" alt="">
+              <h4>Noelia Gordillo Alfaro</h4>
+              <span>Lic. en Fonoaudiología. MP 7412</span>
+              <p>
+                Coordinadora del Área de Fonoaudiología Fundación Arkho
+              </p>
             </div>
           </div>
 
