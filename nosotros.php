@@ -308,6 +308,9 @@
               <img src="assets/img/team/mati.jpg" alt="">
               <h4>Matias Sotomayor</h4>
               <span>Lic. en Psicomotricidad. MP 12786</span>
+              <p>
+                Integrante del Área de Psicomotricidad Fundación Arkho
+              </p>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
@@ -319,6 +322,9 @@
               <img src="assets/img/team/vane.jpg" alt="">
               <h4>Vanesa Beatriz Arévalo</h4>
               <span>Lic. en Psicología. MP 7247</span>
+              <p>
+                Integrante del Área de Psicología Fundación Arkho
+              </p>
               <!--<p>
                 Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
               </p>-->
@@ -330,6 +336,9 @@
               <img src="assets/img/team/consuelo.jpg" alt="">
               <h4>Consuelo Verónica Fa</h4>
               <span>Lic. en Psicología. MP 7304</span>
+              <p>
+                Integrante del Área de Psicología Fundación Arkho
+              </p>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
@@ -345,6 +354,9 @@
               <span>Lic. y Prof. en Psicomotricidad. MP 10203</span>
               <p>
                 CISTC Certificado Internacional en Ciencias y Técnicas del Cuerpo (OIPR, París, Francia)
+                <br>
+                Integrante del Área de Psicomotricidad Fundación Arkho
+              
               </p>
             </div>
           </div>
@@ -356,6 +368,9 @@
               <img src="assets/img/team/maca.jpg" alt="">
               <h4>Macarena Arias</h4>
               <span>Lic. en Psicomotricidad. MP 14387</span>
+              <p>
+                Integrante del Área de Psicomotricidad Fundación Arkho
+              </p>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
@@ -371,6 +386,9 @@
               <img src="assets/img/team/giselle.jpg" alt="">
               <h4>Giselle Belén Maccario</h4>
               <span>Lic. en Psicopedagogía. MP P-12-4112</span>
+              <p>
+                Integrante del Área de Psicopedagogía Fundación Arkho
+              </p>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
@@ -383,6 +401,9 @@
               <img src="assets/img/team/gabriela.jpg" alt="">
               <h4>Gabriela del V. Córdoba</h4>
               <span>Lic. en Psicopedagogía. MP P-12-5164</span>
+              <p>
+                Integrante del Área de Psicopedagogía Fundación Arkho
+              </p>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
@@ -400,6 +421,9 @@
               <img src="assets/img/team/natalia.jpg" alt="">
               <h4>Natalia Glorioso</h4>
               <span>Lic. en Fonoaudiología. MP 8865</span>
+              <p>
+                Integrante del Área de Fonoaudiología Fundación Arkho
+              </p>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
@@ -412,7 +436,7 @@
               <h4>Verónica Agner</h4>
               <span>Lic. en Gestión de Educación Especial MP A-8968</span>
               <p>
-                Prof. en Educación Especial
+                Integrante del Área de Educación Especial Fundación Arkho
               </p>
             </div>
           </div>
@@ -422,6 +446,9 @@
               <img src="assets/img/team/eliana.jpg" alt="">
               <h4>Eliana Bustos</h4>
               <span>Lic. en Trabajo Social. MP 1584</span>
+               <p>
+                Integrante del Área de Trabajo social Fundación Arkho
+              </p>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
@@ -436,6 +463,9 @@
               <img src="assets/img/team/team-3.jpg" alt="">
               <h4>Antonella Pini</h4>
               <span>Lic. en Psicopedagogía. MP 124113</span>
+              <p>
+                Integrante del Área de Psicopedagogía Fundación Arkho
+              </p>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
@@ -447,6 +477,9 @@
               <img src="assets/img/team/team-3.jpg" alt="">
               <h4>Leticia Mendez</h4>
               <span>Lic. en Psicomotricidad. MP 13581</span>
+               <p>
+                Integrante del Área de Psicomotricidad Fundación Arkho
+              </p>
               <!--<p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
               </p>-->
