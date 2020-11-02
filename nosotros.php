@@ -24,8 +24,8 @@
     <section id="testimonials" class="testimonials">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6" >
-            <div class="testimonial-item" style="min-height: 350px; text-align: justify;">
+          <div class="col-lg-6 mb-lg-0 mb-5" >
+            <div class="testimonial-item box-nosotros">
               <i class="icofont-eye-alt"></i>
               <span>VISIÓN</span>
               <p>
@@ -34,8 +34,8 @@
             </div>
           </div>
 
-          <div class="col-lg-6">
-            <div class="testimonial-item" style=" min-height: 350px; text-align: justify;">
+          <div class="col-lg-6 mb-lg-0 mb-5">
+            <div class="testimonial-item box-nosotros">
               <i class="icofont-group"></i>
               <span>MISIÓN</span>
               <p>
