@@ -59,8 +59,8 @@
 
         <div class="row">
 
-          <div class="col-lg-6">
-            <div class="testimonial-item" >
+          <div class="col-lg-6 mb-lg-0 mb-5">
+            <div class="testimonial-item box-integracion" >
               <i class="icofont-check-circled"></i>
               <span style="margin-bottom: 30px;">OBJETIVOS</span>
               <p>
@@ -77,8 +77,8 @@
               </p>
             </div>
           </div>
-          <div class="col-lg-6" style="min-height : 100% ">
-            <div class="testimonial-item">
+          <div class="col-lg-6 mb-lg-0 mb-5">
+            <div class="testimonial-item box-integracion">
               <i class="icofont-simple-smile"></i>
               <span style="margin-bottom: 30px;">BENEFICIOS</span>
               <p>

@@ -54,7 +54,7 @@
         <div class="row">
 
           <div class="col-lg-6 ">
-            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13621.02989833683!2d-64.205123!3d-31.4070315!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7ce3d23cd0390993!2sFundacion%20Arkho!5e0!3m2!1ses-419!2sar!4v1587602766957!5m2!1ses-419!2sar" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13621.02989833683!2d-64.205123!3d-31.4070315!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7ce3d23cd0390993!2sFundacion%20Arkho!5e0!3m2!1ses-419!2sar!4v1587602766957!5m2!1ses-419!2sar" frameborder="0" style="border:0; width: 100%; height: 414px;" allowfullscreen></iframe>
           </div>
 
           <div class="col-lg-6">
