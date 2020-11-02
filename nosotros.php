@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<title>NOSOTROS | Fundación Ark Ho</title>
 <?php include ('head.php'); ?>
 
 <body>
