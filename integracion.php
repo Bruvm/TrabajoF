@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<title>INTEGRACION | Fundación Ark Ho</title>
 <?php include ('head.php'); ?>
+
 
 <body>
   <?php include ('conexion.php'); ?>
