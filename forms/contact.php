@@ -6,16 +6,16 @@ $mail = new PHPMailer();
 
 $mail->IsSMTP();                                      // set mailer to
 
-$mail->Host = 'no-reply@tuusuario.ferozo.com';  // specify main and backup server
+$mail->Host = 'c1960018.ferozo.com';  // specify main and backup server
 $mail->SMTPAuth = true;     // turn on SMTP authentication
-$mail->Username = 'melibruvera@hotmail.com.ar';  // SMTP username
-$mail->Password = 'homero19'; // SMTP password
+$mail->Username = 'no-reply@c1960018.ferozo.com';  // SMTP username
+$mail->Password = 'Tx0HyE*xhq'; // SMTP password
 
-$mail->From = 'prueba@metrolink.com.ar';
+$mail->From = 'no-reply@c1960018.ferozo.com';
 $mail->FromName = 'Contacto desde Web';        // remitente
-$mail->AddAddress('melibruvera@hotmail.com.ar', 'destinatario');        // destinatario
+$mail->AddAddress('no-reply@c1960018.ferozo.com', 'destinatario');        // destinatario
 
-$mail->AddReplyTo('melibruvera@hotmail.com.ar', 'respuesta a');    // responder a
+$mail->AddReplyTo('no-reply@c1960018.ferozo.com', 'respuesta a');    // responder a
 
 $mail->WordWrap = 50;     // set word wrap to 50 characters
 $mail->IsHTML(true);     // set email
