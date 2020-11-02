@@ -20,7 +20,9 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animated fadeInDown"><span>¡BIENVENIDOS!</span></h2>
-                <p class="animated fadeInUp">Los invitamos a conocernos. Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
+                <p class="animated fadeInUp"> 
+                  <b>Los invitamos a conocernos.</b> <br>
+                  Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
                 <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
@@ -30,8 +32,10 @@
           <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg) no-repeat center fixed; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animated fadeInDown">¡BIENVE<span>NIDOS!</span></h2>
-                <p class="animated fadeInUp">Los invitamos a conocernos. Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
+                <h2 class="animated fadeInDown"><span>¡BIENVENIDOS!</span></h2>
+                <p class="animated fadeInUp">
+                  <b>Los invitamos a conocernos.</b> <br>
+                  Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
                 <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
@@ -41,8 +45,10 @@
           <div class="carousel-item" style="background: url(assets/img/slide/slide-3.jpg) no-repeat center fixed; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animated fadeInDown">¡BIENVE<span>NIDOS!</span></h2>
-                <p class="animated fadeInUp">Los invitamos a conocernos. Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
+                <h2 class="animated fadeInDown"><span>¡BIENVENIDOS!</span></h2>
+                <p class="animated fadeInUp">
+                  <b>Los invitamos a conocernos.</b> <br>
+                  Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
                 <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
@@ -102,7 +108,7 @@
     <!-- End About -->
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    <section id="services" class="services" style="background: #FFF7F7;">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2>ESPECIALIDADES</h2>
@@ -169,7 +175,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="nosotros.php">Psicomotricidad</a></h4>
-              <p>Participa en la elaboración, ejecución, evaluación de planes, programas y acciones pertinentes al área de la psicomotricidad, en el ámbito de la educación de nivel y especial.</p></p>
+              <p style="font-family: sans-serif;">Participa en la elaboración, ejecución, evaluación de planes, programas y acciones pertinentes al área de la psicomotricidad, en el ámbito de la educación de nivel y especial.</p></p>
             </div>
           </div>
 
@@ -185,29 +191,36 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Contacto</h2>
+          <h2 style="">Contacto</h2>
         </div>
 
-        <div class="row justify-content-between IM2020">
-            <div class="text-center float-left">
+        <div class="row justify-content-center IM2020">
+          <div class="col-lg-10 col-md-10 col-sm-11 col-11 align-self-center">
+            <div class="row justify-content-between m-0">
+              <div class="text-center float-left">
               <a href="https://www.facebook.com/fundacion.arkho" target="_blank"><i class="fab fa-facebook-f"></i></a>
-            </div>
+              </div>
 
-            <div class="text-center float-left">
-              <a href="https://www.youtube.com/channel/UC2UHuvShGVYOzp4Pct3yDww/?guided_help_flow=5" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a>
-            </div>
+              <div class="text-center float-left">
+                <a href="https://www.youtube.com/channel/UC2UHuvShGVYOzp4Pct3yDww/?guided_help_flow=5" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a>
+              </div>
 
-            <div class="text-center float-left">
-              <a href="https://api.whatsapp.com/send?phone=+54 3512333551" target="_blank"><i class="fab fa-whatsapp"></i></a>
-            </div>
+              <div class="text-center float-left">
+                <a href="https://api.whatsapp.com/send?phone=+54 3512333551" target="_blank"><i class="fab fa-whatsapp"></i></a>
+              </div>
 
-            <div class=" text-center float-left">
-              <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
-            </div>
+              <div class=" text-center float-left">
+                <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+              </div>
 
-            <div class="text-center float-left">
-              <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
+              <div class="text-center float-left">
+                <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
+              </div>
+
             </div>
+            
+          </div>
+            
           
        </div>
 
