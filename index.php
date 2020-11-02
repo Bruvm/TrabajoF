@@ -129,7 +129,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch ">
             <div class="icon-box">
               <h4><a href="">Trabajo Social</a></h4>
               <p>Asistencia, orientación y asesoramiento a los distintos sistemas (familia-escuela-instituciones)  que participan del proceso de Inclusión Escolar. </p>
