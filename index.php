@@ -93,7 +93,7 @@
         <div class="container">
           <div class="row">      
             <div class="col-lg-6 pt-4 pt-lg-0 content order-2 order-lg-1">
-              <h2 style="color: #D68831"><b>¿Qué es la discapcidad?</b></h2>
+              <h2 style="color: #D68831"><b>¿Qué es la discapacidad?</b></h2>
               <p class="font-italic" style="text-align: justify; font-size: 15px;">
                 Según la OMS (Organización Mundial de la Salud), la Discapacidad es un término general que abarca las deficiencias, las limitaciones de la actividad y las restricciones de la participación. Las deficiencias son problemas que afectan a una estructura o función corporal; las limitaciones de la actividad son dificultades para ejecutar acciones o tareas, y las restricciones de la participación son problemas para participar en situaciones vitales. Por consiguiente, la discapacidad es un fenómeno complejo que refleja una interacción entre las características del organismo humano y las características de la sociedad en la que vive. 
                 <br>Las personas con altas capacidades presentan un nivel de rendimiento intelectual superior en una amplia gama de aptitudes y capacidades aprendiendo con facilidad cualquier área o materia.
@@ -131,28 +131,28 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
-              <h4><a href="nosotros.php">Trabajo Social</a></h4>
+              <h4><a href="">Trabajo Social</a></h4>
               <p>Asistencia, orientación y asesoramiento a los distintos sistemas (familia-escuela-instituciones)  que participan del proceso de Inclusión Escolar. </p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
-              <h4><a href="nosotros.php">Gestión de la educación especial</a></h4>
+              <h4><a href="">Gestión de la educación especial</a></h4>
               <p>Encargada de la supervisión, conducción y coordinación de los servicios que conciernen a los procesos de Inclusión Escolar.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <h4><a href="nosotros.php">Fisiatría</a></h4>
+              <h4><a href="">Fisiatría</a></h4>
               <p>Profesional a cargo de un proceso de  valoración preliminar e integral del paciente. </p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <h4><a href="nosotros.php">Neuropsicología</a></h4>
+              <h4><a href="">Neuropsicología</a></h4>
               <p>Profesional que diagnostica implementando batería de test neuropsicológicos, a los fines efectuar una descripción profunda de las funciones cerebrales superiores de las personas.</p>
             </div>
           </div>
@@ -160,21 +160,21 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <h4><a href="nosotros.php">Fonoaudiología</a></h4>
+              <h4><a href="">Fonoaudiología</a></h4>
               <p>Realiza la valoración, diagnóstico clínico fonoaudiológico, pronóstico y terapéutica en los procesos que perturben el desarrollo de la organización lingüística y su deterioro.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <h4><a href="nosotros.php">Kinesiología y Fisioterapia</a></h4>
+              <h4><a href="">Kinesiología y Fisioterapia</a></h4>
               <p>Ejecuta las prestaciones asistenciales, para la evaluación, prevención, conservación, tratamiento y recuperación de la capacidad física de las personas a través de la Kinefilaxia, Kinesiterapia y la Fisioterapia.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <h4><a href="nosotros.php">Psicomotricidad</a></h4>
+              <h4><a href="">Psicomotricidad</a></h4>
               <p style="font-family: sans-serif;">Participa en la elaboración, ejecución, evaluación de planes, programas y acciones pertinentes al área de la psicomotricidad, en el ámbito de la educación de nivel y especial.</p></p>
             </div>
           </div>
