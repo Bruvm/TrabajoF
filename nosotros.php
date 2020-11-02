@@ -58,7 +58,7 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box box-psicopeda" style="min-height: 360px; background: #fff;">
+            <div class="icon-box box-psicopeda" style="min-height: 360px;">
               <h4><a href="">Psicopedagogía</a></h4>
               <p>Realiza acciones que posibilitan la detección de perturbaciones y/o anomalías en el proceso de aprendizaje.</p>
               <div class="collapse" id="collapsePsicopeda">
@@ -75,7 +75,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" >
-            <div class="icon-box box-psicolo" style="min-height: 360px; background: #fff;">
+            <div class="icon-box box-psicolo" style="min-height: 360px;">
               <h4><a href="">Psicología</a></h4>
               <p>Asesoramiento y tratamiento a familias de personas en situación de Discapacidad.</p>
               <div class="collapse" id="collapsePsicolo">
@@ -93,7 +93,7 @@
 
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box box-trabsocial" style="min-height: 360px; background: #fff;">
+            <div class="icon-box box-trabsocial" style="min-height: 360px;">
               <h4><a href="">Trabajo Social</a></h4>
               <p>Asistencia, orientación y asesoramiento a los distintos sistemas (familia-escuela-instituciones) que participan del proceso de Inclusión Escolar.</p>
               <div class="collapse" id="collapseExample">
@@ -111,7 +111,7 @@
 
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box" style="min-height: 360px; background: #fff;">
+            <div class="icon-box" style="min-height: 360px;">
               <h4><a href="">Gestión de la educación especial</a></h4>
               <p>Encargada de la supervisión, conducción y coordinación de los servicios que conciernen a los procesos de Inclusión Escolar.</p>
               <div class="collapse" id="collapseGestion">
@@ -129,7 +129,7 @@
 
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box" style="min-height: 360px; background: #fff;">
+            <div class="icon-box" style="min-height: 360px;">
               <h4><a href="">Fisiatría</a></h4>
               <p>Profesional a cargo de un proceso de  valoración preliminar e integral del paciente.</p>
               <div class="collapse" id="collapseFisiatria">
@@ -146,7 +146,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box" style="min-height: 360px; background: #fff;">
+            <div class="icon-box" style="min-height: 360px;">
               <h4><a href="">Neuropsicología</a></h4>
               <p>Profesional que diagnostica implementando batería de test neuropsicológicos, a los fines efectuar una descripción profunda de las funciones cerebrales superiores de las personas.</p>
               <div class="collapse" id="collapseNeuro">
@@ -163,7 +163,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 ">
-            <div class="icon-box" style="min-height: 360px; background: #fff;">
+            <div class="icon-box" style="min-height: 360px;">
               <h4><a href="">Fonoaudiología</a></h4>
               <p>Realiza la valoración, diagnóstico clínico fonoaudiológico, pronóstico y terapéutica en los procesos que perturben el desarrollo de la organización lingüística y su deterioro.</p>
                 <div class="collapse" id="collapseFono">
@@ -180,7 +180,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box" style="min-height: 360px; background: #fff;">
+            <div class="icon-box" style="min-height: 360px;">
               <h4><a href="">Kinesiología y Fisioterapia</a></h4>
               <p>Ejecuta las prestaciones asistenciales, para la evaluación, prevención, conservación, tratamiento y recuperación de la capacidad física de las personas a través de la Kinefilaxia, Kinesiterapia y la Fisioterapia.</p>
               <div class="collapse" id="collapseKine">
@@ -197,7 +197,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box" style="min-height: 360px; background: #fff;">
+            <div class="icon-box" style="min-height: 360px;">
               <h4><a href="">Psicomotricidad</a></h4>
               <p>Participa en la elaboración, ejecución, evaluación de planes, programas y acciones pertinentes al área de la psicomotricidad, en el ámbito de la educación de nivel y especial.</p>
               <div class="collapse" id="collapsePsicomo">
