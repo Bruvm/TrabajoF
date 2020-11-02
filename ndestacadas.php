@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>BLOG| Fundación Ark Ho</title>
+<title>BLOG | Fundación Ark Ho</title>
 <?php include ('head.php'); ?>
 
 <body>
