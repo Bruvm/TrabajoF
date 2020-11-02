@@ -68,9 +68,7 @@
                 </div>
               </div>
               <p>
-                <button class="btn buy-btn btnChange" id="btnPsicopeda" type="button" data-toggle="collapse" data-target="#collapsePsicopeda" aria-expanded="false" aria-controls="collapsePsicopeda" >
-                  Ver Más
-                  </button>
+                <button class="btn buy-btn btnChange" id="btnPsicopeda" type="button" data-toggle="collapse" data-target="#collapsePsicopeda" aria-expanded="false" aria-controls="collapsePsicopeda" >Ver Más</button>
               </p>
             </div>
           </div>
