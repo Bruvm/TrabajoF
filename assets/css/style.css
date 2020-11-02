@@ -1002,6 +1002,47 @@ section {
   margin-left: 50px;
 }
 
+.testimonials .box-nosotros{
+  text-align: justify;
+}
+@media (max-width: 4288px) {
+  .testimonials .box-nosotros{
+  min-height: 310px;
+  }
+
+}
+@media (max-width: 1195px) {
+  .testimonials .box-nosotros{
+  min-height: 380px;
+  }
+}
+
+@media (max-width: 989px) {
+  .testimonials .box-nosotros{
+  min-height: auto;
+  }
+}
+
+/**/
+
+@media (max-width: 4288px) {
+  .testimonials .box-integracion{
+  min-height: 480px;
+  }
+
+}
+@media (max-width: 1195px) {
+  .testimonials .box-integracion{
+  min-height: 520px;
+  }
+}
+
+@media (max-width: 989px) {
+  .testimonials .box-integracion{
+  min-height: auto;
+  }
+}
+
 
 /*--------------------------------------------------------------
 # Our Skills
