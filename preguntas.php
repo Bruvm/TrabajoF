@@ -31,7 +31,7 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-5">
             <i class="icofont-question-circle"></i>
-            <h4>¿Qué obras sociales o prepagas atienden en la Fundación?</h4>
+            <h4>¿El paciente debe contar con obra social/prepaga para asistir a la fundación?</h4>
           </div>
           <div class="col-lg-7">
             <p>
@@ -67,7 +67,7 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" style="background: #FFF7F7;">
           <div class="col-lg-5">
             <i class="icofont-question-circle"></i>
-            <h4>¿Con que obra social puedo hacerme atender?</h4>
+            <h4>¿Qué obras sociales o prepagas atienden en la Fundación?</h4>
           </div>
           <div class="col-lg-7">
             <p>
