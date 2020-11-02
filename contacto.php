@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<title>CONTACTO| Fundación Ark Ho</title>
 <?php include ('head.php'); ?>
 <body>
   <?php include ('conexion.php'); ?>
