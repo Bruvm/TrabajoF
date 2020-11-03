@@ -114,28 +114,28 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="nosotros.php">Psicopedagogía</a></h4>
               <p>Realiza acciones que posibilitan la detección de perturbaciones y/o anomalías en el proceso de aprendizaje.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="nosotros.php">Psicología</a></h4>
               <p>Asesoramiento y tratamiento a familias de personas en situación de Discapacidad.</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch ">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="nosotros.php">Trabajo Social</a></h4>
               <p>Asistencia, orientación y asesoramiento a los distintos sistemas (familia-escuela-instituciones)  que participan del proceso de Inclusión Escolar. </p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <h4><a href="nosotros.php">Gestión de la educación especial</a></h4>
               <p>Encargada de la supervisión, conducción y coordinación de los servicios que conciernen a los procesos de Inclusión Escolar.</p>
