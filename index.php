@@ -32,10 +32,10 @@
           <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg) no-repeat center fixed; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animated fadeInDown"><span>¡BIENVENIDOS!</span></h2>
+                <h2 class="animated fadeInDown"><span>NOTICIAS DESTACADAS</span></h2>
                 <p class="animated fadeInUp">
-                  <b>Los invitamos a conocernos.</b> <br>
-                  Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
+                  En nuestra web podrás encontrar noticias actualizadas de nuestro día a día. 
+                  </p>
                 <a href="ndestacadas.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
@@ -45,10 +45,9 @@
           <div class="carousel-item" style="background: url(assets/img/slide/slide-3.jpg) no-repeat center fixed; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animated fadeInDown"><span>¡BIENVENIDOS!</span></h2>
+                <h2 class="animated fadeInDown"><span>INTEGRACIÓN EDUCATIVA</span></h2>
                 <p class="animated fadeInUp">
-                  <b>Los invitamos a conocernos.</b> <br>
-                  Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
+                  Conocé más sobre la integración escolar, sus objetivos y beneficios.</p>
                 <a href="integracion.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
