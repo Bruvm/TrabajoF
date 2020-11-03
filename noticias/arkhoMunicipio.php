@@ -88,7 +88,7 @@
               </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</a>
+                <a>APOSTANDO JUNTOS</a>
               </h2>
 
 
@@ -109,6 +109,7 @@
                   <i class="icofont-quote-right quote-right"></i>
                 </blockquote>
               </div>
+              
                <nav class="nav-menu d-none d-lg-block">
                   <ul>
                     <li  class="active"><a href="../ndestacadas.php">Entradas recientes >></a></li>
