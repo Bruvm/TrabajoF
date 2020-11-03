@@ -87,9 +87,9 @@
                 <img src="../assets/img/ndestacadas/nd2.jpg" alt="" class="img-fluid" style="min-width: 100%; margin: 0px;">
               </div>
 
-              <h2 class="entry-title">
+              <h3 class="entry-title">
                 <a>APOSTANDO JUNTOS</a>
-              </h2>
+              </h3>
 
 
               <div class="entry-content">
@@ -109,7 +109,7 @@
                   <i class="icofont-quote-right quote-right"></i>
                 </blockquote>
               </div>
-              
+
                <nav class="nav-menu d-none d-lg-block">
                   <ul>
                     <li  class="active"><a href="../ndestacadas.php">Entradas recientes >></a></li>
