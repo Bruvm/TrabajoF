@@ -36,7 +36,7 @@
                 <p class="animated fadeInUp">
                   <b>Los invitamos a conocernos.</b> <br>
                   Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
-                <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
+                <a href="ndestacadas.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
           </div>
@@ -49,7 +49,7 @@
                 <p class="animated fadeInUp">
                   <b>Los invitamos a conocernos.</b> <br>
                   Nuestra apuesta: construir un mundo más real, empático  e inclusivo.</p>
-                <a href="nosotros.php" class="btn-get-started animated fadeInUp">Leer más</a>
+                <a href="integracion.php" class="btn-get-started animated fadeInUp">Leer más</a>
               </div>
             </div>
           </div>
