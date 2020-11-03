@@ -474,7 +474,7 @@
 
            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/avatar.jpg" alt="">
               <h4>Leticia Mendez</h4>
               <span>Lic. en Psicomotricidad. MP 13581</span>
                <p>
