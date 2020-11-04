@@ -105,7 +105,8 @@
                    Para ello debemos tener: habilitación de municipal, de salud de consultorio y de bomberos. Asi como también, contar con una infraestructura que sea accesible para las personas con discapacidad, tener una manera de pensar las historias clínicas, devoluciones diarias de todo lo que hacen los pacientes y tener cierta calidad institucional. 
                  </p>
                    <p>
-                   Debemos contar con personeria jurídica,  y pasar estas auditorias anuales por parte del ministerio de salud, del área de ruge presa que da la habilitación de consultorio, del área de la superintendencia que es la junta categorización y auditación.
+                   Debemos contar con personeria jurídica,  y pasar estas auditorias anuales por parte del ministerio de salud, del área de 
+				R.U.Ge.Pre.Sa que da la habilitación de consultorio, del área de la superintendencia que es la junta categorización y auditación.
 
                 </p>
 
